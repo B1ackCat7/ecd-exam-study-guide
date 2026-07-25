@@ -1,4 +1,4 @@
-# Unofficial EDAC Ec.D. Study Guide
+# Independent EDAC Ec.D. Study Guide
 
 I've been asked by many people to share my experience preparing for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) examination, so I decided to put together this informal study guide. I hope it helps my fellow Ec.D. candidates feel a little more prepared and confident as they work toward the designation.
 
@@ -65,6 +65,6 @@ This guide is licensed under the [Creative Commons Attribution 4.0 International
 
 Suggested attribution:
 
-> *Unofficial EDAC Ec.D. Study Guide* by [B1ackCat7](https://github.com/B1ackCat7), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> *Independent EDAC Ec.D. Study Guide* by [B1ackCat7](https://github.com/B1ackCat7), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 See [LICENSE.md](LICENSE.md) for the full repository licensing notice. The license applies only to original content in this repository; third-party names, marks, linked resources, and quoted or otherwise separately identified material remain subject to their respective rights.

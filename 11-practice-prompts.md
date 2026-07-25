@@ -117,7 +117,7 @@ Answers:
 
 ## Self-scoring rubric for an 8-mark practice answer
 
-This is an unofficial practice rubric:
+This is an independently created practice rubric:
 
 | Criterion | Marks |
 |---|---:|
