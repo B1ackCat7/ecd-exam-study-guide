@@ -1,5 +1,21 @@
 # Operations, Partnerships, and Networking
 
+## Table of contents
+
+- [Mentoring](#mentoring)
+  - [Common forms](#common-forms)
+  - [Program design](#program-design)
+- [Partnerships](#partnerships)
+  - [Partnership test](#partnership-test)
+  - [Partnership agreement checklist](#partnership-agreement-checklist)
+- [Public-private partnerships](#public-private-partnerships)
+- [Stakeholder and rights-holder mapping](#stakeholder-and-rights-holder-mapping)
+- [Networking](#networking)
+  - [Effective cycle](#effective-cycle)
+- [Training and continuous development](#training-and-continuous-development)
+- [Downtown redevelopment stakeholder example](#downtown-redevelopment-stakeholder-example)
+- [Learn more](#learn-more)
+
 ## Mentoring
 
 Mentoring pairs experience with a development need. It should support capability and judgment rather than create dependency.

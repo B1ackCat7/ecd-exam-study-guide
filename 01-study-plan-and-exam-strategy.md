@@ -1,5 +1,24 @@
 # Study Plan and Exam Strategy
 
+## Table of contents
+
+- [Build an evidence bank first](#build-an-evidence-bank-first)
+- [Four-week plan](#four-week-plan)
+  - [Week 1: Foundations and economic development processes](#week-1-foundations-and-economic-development-processes)
+  - [Week 2: Governance, operations, and communications](#week-2-governance-operations-and-communications)
+  - [Week 3: Planning, marketing, and sales](#week-3-planning-marketing-and-sales)
+  - [Week 4: Finance, integration, and simulation](#week-4-finance-integration-and-simulation)
+- [Two-week compressed plan](#two-week-compressed-plan)
+- [Daily study loop](#daily-study-loop)
+- [Time strategy](#time-strategy)
+  - [Multiple choice: 40 minutes](#multiple-choice-40-minutes)
+  - [Contemporary essay: 70 minutes](#contemporary-essay-70-minutes)
+  - [Eight short answers: 160 minutes](#eight-short-answers-160-minutes)
+  - [Oral portion: about 30 minutes](#oral-portion-about-30-minutes)
+- [Decoding question verbs](#decoding-question-verbs)
+- [Short-answer quality checklist](#short-answer-quality-checklist)
+- [Learn more](#learn-more)
+
 ## Build an evidence bank first
 
 Many answers should draw on professional experience. Prepare a private evidence bank that is not committed to a public repository.

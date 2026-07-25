@@ -1,5 +1,16 @@
 # Public Sources and Disclaimer
 
+## Table of contents
+
+- [Verification date](#verification-date)
+- [Official EDAC sources](#official-edac-sources)
+- [Canadian economic and community data](#canadian-economic-and-community-data)
+- [Contemporary-issue sources](#contemporary-issue-sources)
+- [Interpretation notes](#interpretation-notes)
+- [Copyright and use](#copyright-and-use)
+- [Disclaimer](#disclaimer)
+- [Learn more](#learn-more)
+
 ## Verification date
 
 The public requirements and links in this guide were checked on July 25, 2026. Certification rules can change, so candidates should verify them again before registering or writing.

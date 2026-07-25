@@ -1,5 +1,21 @@
 # Foundations and Ethics
 
+## Table of contents
+
+- [A working definition](#a-working-definition)
+- [Role of the economic developer](#role-of-the-economic-developer)
+- [Core functions](#core-functions)
+- [Public value and the triple lens](#public-value-and-the-triple-lens)
+- [EDAC Code of Ethics: study themes](#edac-code-of-ethics-study-themes)
+- [Common ethical scenarios](#common-ethical-scenarios)
+  - [Confidential expansion](#confidential-expansion)
+  - [Conflict of interest](#conflict-of-interest)
+  - [Incentive competition](#incentive-competition)
+  - [Pressure to overstate data](#pressure-to-overstate-data)
+- [Ethical decision framework](#ethical-decision-framework)
+- [Exam application](#exam-application)
+- [Learn more](#learn-more)
+
 ## A working definition
 
 Economic development is a deliberate, evidence-informed process that improves a community's economic well-being and resilience. It can include job creation and retention, income and productivity growth, entrepreneurship, investment, tax-base development, infrastructure, workforce development, sector development, and quality of life.

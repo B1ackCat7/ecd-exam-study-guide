@@ -1,5 +1,9 @@
 # Creative Commons Attribution 4.0 International
 
+## Table of contents
+
+- [Scope](#scope)
+
 Copyright © 2026 B1ackCat7
 
 Except where otherwise noted, the original content in this repository is licensed under the Creative Commons Attribution 4.0 International Public License (CC BY 4.0).

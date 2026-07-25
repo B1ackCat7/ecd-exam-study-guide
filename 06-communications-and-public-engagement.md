@@ -1,5 +1,26 @@
 # Communications and Public Engagement
 
+## Table of contents
+
+- [Communication plan](#communication-plan)
+- [Message map](#message-map)
+- [Media relations](#media-relations)
+  - [Before an interview](#before-an-interview)
+  - [During an interview](#during-an-interview)
+  - [After an interview](#after-an-interview)
+- [Crisis communication](#crisis-communication)
+- [Written communication](#written-communication)
+- [Presentations](#presentations)
+  - [Format](#format)
+  - [Audience](#audience)
+  - [Structure](#structure)
+- [Public engagement](#public-engagement)
+  - [Levels](#levels)
+  - [Engagement design](#engagement-design)
+- [Digital and social channels](#digital-and-social-channels)
+- [Communications answer pattern](#communications-answer-pattern)
+- [Learn more](#learn-more)
+
 ## Communication plan
 
 Good communication is planned. A practical plan includes:

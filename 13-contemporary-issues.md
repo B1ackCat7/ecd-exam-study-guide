@@ -2,6 +2,22 @@
 
 The contemporary essay should demonstrate that you can translate a major event into local economic impacts and a credible response.
 
+## Table of contents
+
+- [Analysis framework](#analysis-framework)
+- [Current Canadian themes as of July 25, 2026](#current-canadian-themes-as-of-july-25-2026)
+  - [Trade restructuring and tariffs](#trade-restructuring-and-tariffs)
+  - [Growth, inflation, interest rates, and uncertainty](#growth-inflation-interest-rates-and-uncertainty)
+  - [Housing, workforce, and development feasibility](#housing-workforce-and-development-feasibility)
+  - [Labour, demographics, and skills](#labour-demographics-and-skills)
+  - [Artificial intelligence and digital adoption](#artificial-intelligence-and-digital-adoption)
+  - [Climate adaptation and economic resilience](#climate-adaptation-and-economic-resilience)
+  - [Indigenous economic development and reconciliation](#indigenous-economic-development-and-reconciliation)
+- [Seven-day refresh](#seven-day-refresh)
+- [Source discipline](#source-discipline)
+- [Essay outline template](#essay-outline-template)
+- [Learn more](#learn-more)
+
 ## Analysis framework
 
 Use LOCAL IMPACT:

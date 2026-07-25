@@ -1,5 +1,30 @@
 # Finance, Business Planning, and Impact Analysis
 
+## Table of contents
+
+- [Why finance matters](#why-finance-matters)
+- [The three financial statements](#the-three-financial-statements)
+  - [Income statement](#income-statement)
+  - [Balance sheet](#balance-sheet)
+  - [Cash-flow statement](#cash-flow-statement)
+- [Ratio interpretation](#ratio-interpretation)
+- [Warning signs](#warning-signs)
+- [Budgeting](#budgeting)
+  - [Operating budget](#operating-budget)
+  - [Capital budget](#capital-budget)
+  - [Budget cycle](#budget-cycle)
+- [Business plan](#business-plan)
+  - [Forecast questions](#forecast-questions)
+- [Development impact analysis](#development-impact-analysis)
+  - [Fiscal](#fiscal)
+  - [Environmental](#environmental)
+  - [Socio-economic](#socio-economic)
+  - [Transportation](#transportation)
+- [Economic impact versus fiscal impact](#economic-impact-versus-fiscal-impact)
+- [Impact-analysis discipline](#impact-analysis-discipline)
+- [Finance answer pattern](#finance-answer-pattern)
+- [Learn more](#learn-more)
+
 ## Why finance matters
 
 An EDO may not be the firm's accountant, lender, or investment advisor, but should be able to:

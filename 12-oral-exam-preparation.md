@@ -2,6 +2,22 @@
 
 EDAC's public exam page says the oral portion is approximately 30 minutes and worth 9 marks. It follows the online portion or may be scheduled separately. Confirm the arrangement with the proctor.
 
+## Table of contents
+
+- [What to know about your local economy](#what-to-know-about-your-local-economy)
+- [One-page local economy brief](#one-page-local-economy-brief)
+- [Answer structures](#answer-structures)
+  - [Direct factual question](#direct-factual-question)
+  - [Scenario question](#scenario-question)
+  - [Experience question](#experience-question)
+  - [Recommendation question](#recommendation-question)
+- [Original practice questions](#original-practice-questions)
+- [Delivery](#delivery)
+- [Challenging follow-ups](#challenging-follow-ups)
+- [Mock oral process](#mock-oral-process)
+- [Final oral checklist](#final-oral-checklist)
+- [Learn more](#learn-more)
+
 ## What to know about your local economy
 
 Prepare current, sourced knowledge of:

@@ -1,5 +1,41 @@
 # Calculations and Formulas
 
+## Table of contents
+
+- [Calculation habits](#calculation-habits)
+- [Location quotient](#location-quotient)
+- [Employment growth rate](#employment-growth-rate)
+- [Shift-share analysis](#shift-share-analysis)
+- [Revenue, cost, and profit](#revenue-cost-and-profit)
+- [Liquidity ratios](#liquidity-ratios)
+  - [Current ratio](#current-ratio)
+  - [Quick ratio](#quick-ratio)
+- [Activity ratios](#activity-ratios)
+  - [Inventory turnover](#inventory-turnover)
+  - [Days sales outstanding](#days-sales-outstanding)
+- [Leverage and coverage](#leverage-and-coverage)
+  - [Debt-to-assets](#debt-to-assets)
+  - [Debt-to-equity](#debt-to-equity)
+  - [Interest coverage](#interest-coverage)
+- [Profitability](#profitability)
+  - [Gross profit margin](#gross-profit-margin)
+  - [Net profit margin](#net-profit-margin)
+  - [Return on assets](#return-on-assets)
+  - [Return on equity](#return-on-equity)
+- [Shareholder ratios](#shareholder-ratios)
+  - [Total shareholder return](#total-shareholder-return)
+  - [Price-earnings ratio](#price-earnings-ratio)
+  - [Market-to-book ratio](#market-to-book-ratio)
+  - [Dividend yield](#dividend-yield)
+- [Balance-sheet and cash relationships](#balance-sheet-and-cash-relationships)
+- [Program-performance calculations](#program-performance-calculations)
+  - [Conversion rate](#conversion-rate)
+  - [Cost per qualified lead](#cost-per-qualified-lead)
+  - [Issue resolution rate](#issue-resolution-rate)
+  - [Funding leverage](#funding-leverage)
+- [Avoiding common errors](#avoiding-common-errors)
+- [Learn more](#learn-more)
+
 ## Calculation habits
 
 For every calculation:
