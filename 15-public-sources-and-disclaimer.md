@@ -65,7 +65,7 @@ The license does not grant rights in EDAC's name, marks, artwork, publications, 
 
 ## Disclaimer
 
-This is an unofficial educational resource and is not endorsed by EDAC. It is not legal, financial, accounting, planning, investment, or examination advice. EDAC is the authority for certification rules. Applicable governments and rights-holders are the authorities for law, jurisdiction, and approval requirements.
+This is an independently created educational resource and is not endorsed by EDAC. It is not legal, financial, accounting, planning, investment, or examination advice. EDAC is the authority for certification rules. Applicable governments and rights-holders are the authorities for law, jurisdiction, and approval requirements.
 
 ## Learn more
 
