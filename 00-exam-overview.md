@@ -1,5 +1,15 @@
 # Exam Overview
 
+## Table of contents
+
+- [Current public eligibility requirements](#current-public-eligibility-requirements)
+- [Published exam structure](#published-exam-structure)
+- [Published competency areas](#published-competency-areas)
+- [Candidate agreement and result process](#candidate-agreement-and-result-process)
+- [The exam is testing applied judgment](#the-exam-is-testing-applied-judgment)
+- [Items to confirm with EDAC](#items-to-confirm-with-edac)
+- [Learn more](#learn-more)
+
 ## Current public eligibility requirements
 
 As of July 25, 2026, EDAC's public [Ec.D. Designation page](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation page](https://exam.edac.ca/exam-prep/) present the following baseline route:

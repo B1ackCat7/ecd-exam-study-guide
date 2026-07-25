@@ -1,5 +1,26 @@
 # Governance and Performance
 
+## Table of contents
+
+- [Governance is an operating system](#governance-is-an-operating-system)
+- [Common structures](#common-structures)
+- [Principles for a sound structure](#principles-for-a-sound-structure)
+- [Board, council, and staff roles](#board-council-and-staff-roles)
+  - [Governing body](#governing-body)
+  - [Economic development staff](#economic-development-staff)
+- [Priority setting](#priority-setting)
+- [Logic model](#logic-model)
+- [SMART measures](#smart-measures)
+- [Performance framework](#performance-framework)
+  - [Activity and service](#activity-and-service)
+  - [Conversion and effectiveness](#conversion-and-effectiveness)
+  - [Economic outcomes](#economic-outcomes)
+  - [Community outcomes](#community-outcomes)
+- [Attribution and additionality](#attribution-and-additionality)
+- [Evaluation cycle](#evaluation-cycle)
+- [Governance answer pattern](#governance-answer-pattern)
+- [Learn more](#learn-more)
+
 ## Governance is an operating system
 
 Governance defines:

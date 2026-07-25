@@ -2,6 +2,33 @@
 
 Definitions are plain-language syntheses written for exam review. They are not quotations. Confirm jurisdiction-specific legal terms and follow the linked primary sources for technical detail. The [Learn more](#learn-more-definition-sources) directory provides at least one public reference for every entry.
 
+## Table of contents
+
+- [A](#a)
+- [B](#b)
+- [C](#c)
+- [D](#d)
+- [E](#e)
+- [F](#f)
+- [G](#g)
+- [I](#i)
+- [L](#l)
+- [M](#m)
+- [N](#n)
+- [O](#o)
+- [P](#p)
+- [Q](#q)
+- [R](#r)
+- [S](#s)
+- [T](#t)
+- [V](#v)
+- [W](#w)
+- [Learn more: definition sources](#learn-more-definition-sources)
+  - [A–D](#ad)
+  - [E–L](#el)
+  - [M–R](#mr)
+  - [S–W](#sw)
+
 ## A
 
 **Activity:** Work performed by a program, such as business visits or workshops.

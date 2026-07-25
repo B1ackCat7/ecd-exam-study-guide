@@ -1,5 +1,26 @@
 # Economic Development Processes
 
+## Table of contents
+
+- [Portfolio approach](#portfolio-approach)
+- [Business attraction and investment](#business-attraction-and-investment)
+  - [Readiness before promotion](#readiness-before-promotion)
+  - [Targeting process](#targeting-process)
+  - [Qualifying a lead](#qualifying-a-lead)
+- [Trade and global investment](#trade-and-global-investment)
+  - [Impact channels](#impact-channels)
+  - [Analysis sequence](#analysis-sequence)
+- [Business retention and expansion](#business-retention-and-expansion)
+  - [Objectives](#objectives)
+  - [Ten-step BR&E process](#ten-step-bre-process)
+  - [Issue triage](#issue-triage)
+  - [Confidentiality controls](#confidentiality-controls)
+- [Entrepreneurship and business support](#entrepreneurship-and-business-support)
+- [Sector and cluster development](#sector-and-cluster-development)
+- [Economic shock and recovery framework](#economic-shock-and-recovery-framework)
+- [Measures](#measures)
+- [Learn more](#learn-more)
+
 ## Portfolio approach
 
 A balanced economic development portfolio usually includes:

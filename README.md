@@ -1,10 +1,21 @@
 # EDAC Ec.D. Exam Study Guide
 
-I've been asked by many people to share my experience preparing for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) exam, so I decided to put together this free, independently created study guide. I hope it helps my fellow Ec.D. candidates feel a little more prepared and confident as they work toward the designation.
+I've been asked by many people to share my experience preparing for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) exam, so I decided to put together this open, independently created study guide. I hope it helps my fellow Ec.D. candidates feel a little more prepared and confident as they work toward the designation.
 
 Designed for Canadian economic development professionals, the guide organizes exam preparation into short, reusable Markdown chapters. It emphasizes understanding, judgment, and application to Canadian communities rather than memorizing model answers.
 
 > This resource is independently created. It is not an official EDAC publication and is not endorsed by EDAC.
+
+## Table of contents
+
+- [What this Ec.D. exam guide covers](#what-this-ecd-exam-guide-covers)
+- [How to use this study guide](#how-to-use-this-study-guide)
+- [What a strong exam answer usually does](#what-a-strong-exam-answer-usually-does)
+- [Important limits](#important-limits)
+- [Learn more and references](#learn-more-and-references)
+- [Current exam information and public sources](#current-exam-information-and-public-sources)
+- [Contributing](#contributing)
+- [License and attribution](#license-and-attribution)
 
 ## What this Ec.D. exam guide covers
 

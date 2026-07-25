@@ -2,6 +2,22 @@
 
 These are original prompts organized for study. They are not real EDAC questions, an answer key, or official labels for sections A through H.
 
+## Table of contents
+
+- [How to use this file](#how-to-use-this-file)
+- [Short-answer Group A: Foundations and ethics](#short-answer-group-a-foundations-and-ethics)
+- [Group B: Business retention and expansion](#group-b-business-retention-and-expansion)
+- [Group C: Attraction, trade, and investment](#group-c-attraction-trade-and-investment)
+- [Group D: Governance and performance](#group-d-governance-and-performance)
+- [Group E: Operations and partnerships](#group-e-operations-and-partnerships)
+- [Group F: Communications and engagement](#group-f-communications-and-engagement)
+- [Group G: Planning, marketing, and site selection](#group-g-planning-marketing-and-site-selection)
+- [Group H: Finance and impact analysis](#group-h-finance-and-impact-analysis)
+- [Contemporary essays](#contemporary-essays)
+- [Calculation drills](#calculation-drills)
+- [Self-scoring rubric for an 8-mark practice answer](#self-scoring-rubric-for-an-8-mark-practice-answer)
+- [Learn more](#learn-more)
+
 ## How to use this file
 
 For short answers:

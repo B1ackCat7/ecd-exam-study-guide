@@ -1,5 +1,29 @@
 # Marketing, Sales, and Site Selection
 
+## Table of contents
+
+- [Marketing versus sales](#marketing-versus-sales)
+- [Community competitive analysis](#community-competitive-analysis)
+  - [Purpose](#purpose)
+  - [Evidence](#evidence)
+- [Community profile](#community-profile)
+  - [Core categories](#core-categories)
+  - [Data standards](#data-standards)
+- [Targeting and positioning](#targeting-and-positioning)
+  - [Target selection](#target-selection)
+  - [Value proposition](#value-proposition)
+- [Investment marketing plan](#investment-marketing-plan)
+- [Lead and project management](#lead-and-project-management)
+  - [Suggested fields](#suggested-fields)
+  - [Funnel](#funnel)
+- [Site-selection response](#site-selection-response)
+  - [First response](#first-response)
+  - [Data-room checklist](#data-room-checklist)
+  - [Site visit](#site-visit)
+- [Corporate aftercare](#corporate-aftercare)
+- [Measures](#measures)
+- [Learn more](#learn-more)
+
 ## Marketing versus sales
 
 - **Marketing** identifies target audiences, builds awareness, positions the community, and generates leads.

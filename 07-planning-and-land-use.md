@@ -1,5 +1,25 @@
 # Planning and Land Use
 
+## Table of contents
+
+- [Strategic economic planning](#strategic-economic-planning)
+  - [Seven-step cycle](#seven-step-cycle)
+- [Evidence for the strategy](#evidence-for-the-strategy)
+- [From goal to action](#from-goal-to-action)
+- [Common strategy failures](#common-strategy-failures)
+- [Municipal and land-use plans](#municipal-and-land-use-plans)
+- [What a municipal or official plan may address](#what-a-municipal-or-official-plan-may-address)
+- [Role of the economic developer](#role-of-the-economic-developer)
+- [Development readiness](#development-readiness)
+- [Public and private development roles](#public-and-private-development-roles)
+  - [Publicly owned employment land](#publicly-owned-employment-land)
+  - [Privately owned development](#privately-owned-development)
+- [Development impact analysis](#development-impact-analysis)
+  - [Impact categories](#impact-categories)
+  - [Process](#process)
+- [Downtown redevelopment](#downtown-redevelopment)
+- [Learn more](#learn-more)
+
 ## Strategic economic planning
 
 A strategy aligns evidence, priorities, resources, actions, and measurement.
