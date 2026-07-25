@@ -71,7 +71,7 @@ A strong answer:
 
 ## Learn more and references
 
-Each substantive chapter ends with a **Learn more** section that connects its concepts to relevant public sources. The [glossary](14-glossary.md#learn-more-definition-sources) provides a term-by-term reference directory, while [15-public-sources-and-disclaimer.md](15-public-sources-and-disclaimer.md) collects official examination, data, and contemporary-issue sources.
+Each substantive chapter ends with a **Learn more** section that connects its concepts to relevant public sources. The [glossary](14-glossary.md) pairs every term with its definition and public sources, while [15-public-sources-and-disclaimer.md](15-public-sources-and-disclaimer.md) collects official examination, data, and contemporary-issue sources.
 
 Definitions in this guide are plain-language study syntheses rather than quotations. Where legitimate professional conventions differ—especially in financial ratios, SMART wording, pipeline stages, planning terminology, and evaluation language—the guide identifies the convention or asks the reader to state it explicitly.
 
