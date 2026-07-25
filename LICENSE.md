@@ -11,7 +11,7 @@ You are free to share and adapt the licensed material for any purpose, including
 
 Suggested attribution:
 
-> *Independent EDAC Ec.D. Study Guide* by [B1ackCat7](https://github.com/B1ackCat7), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes were made.
+> *EDAC Ec.D. Exam Study Guide* by [B1ackCat7](https://github.com/B1ackCat7), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Changes were made.
 
 Remove “Changes were made” when redistributing an unmodified copy.
 

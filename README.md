@@ -1,25 +1,40 @@
-# Independent EDAC Ec.D. Study Guide
+# EDAC Ec.D. Exam Study Guide
 
-I've been asked by many people to share my experience preparing for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) examination, so I decided to put together this informal study guide. I hope it helps my fellow Ec.D. candidates feel a little more prepared and confident as they work toward the designation.
+I've been asked by many people to share my experience preparing for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) exam, so I decided to put together this free, independently created study guide. I hope it helps my fellow Ec.D. candidates feel a little more prepared and confident as they work toward the designation.
 
-The guide organizes the professional knowledge base into short, reusable Markdown chapters. It emphasizes understanding, judgment, and application to Canadian communities rather than memorizing model answers.
+Designed for Canadian economic development professionals, the guide organizes exam preparation into short, reusable Markdown chapters. It emphasizes understanding, judgment, and application to Canadian communities rather than memorizing model answers.
 
-## Start here
+> This resource is independently created. It is not an official EDAC publication and is not endorsed by EDAC.
 
-1. Read [00-exam-overview.md](00-exam-overview.md).
-2. Choose a schedule in [01-study-plan-and-exam-strategy.md](01-study-plan-and-exam-strategy.md).
+## What this Ec.D. exam guide covers
+
+The study guide includes:
+
+- current public EDAC Ec.D. exam requirements and preparation guidance;
+- economic development foundations, professional ethics, governance, and performance measurement;
+- strategic planning, business retention and expansion (BR&E), investment attraction, partnerships, and networking;
+- communications, public engagement, land-use planning, marketing, sales, and site selection;
+- business finance, economic impact analysis, calculations, and formulas;
+- original written and oral exam practice prompts;
+- Canadian economic development issues for contemporary-issue preparation; and
+- an 84-term glossary with public references for every definition.
+
+## How to use this study guide
+
+1. Begin with the [EDAC Ec.D. exam overview](00-exam-overview.md).
+2. Choose a schedule in the [study plan and exam strategy](01-study-plan-and-exam-strategy.md).
 3. Work through the foundations chapter and seven competency chapters:
-   - [02-foundations-and-ethics.md](02-foundations-and-ethics.md)
-   - [03-economic-development-processes.md](03-economic-development-processes.md)
-   - [04-governance-and-performance.md](04-governance-and-performance.md)
-   - [05-operations-partnerships-and-networking.md](05-operations-partnerships-and-networking.md)
-   - [06-communications-and-public-engagement.md](06-communications-and-public-engagement.md)
-   - [07-planning-and-land-use.md](07-planning-and-land-use.md)
-   - [08-marketing-sales-and-site-selection.md](08-marketing-sales-and-site-selection.md)
-   - [09-finance-business-planning-and-impact-analysis.md](09-finance-business-planning-and-impact-analysis.md)
-4. Practise the quantitative material in [10-calculations-and-formulas.md](10-calculations-and-formulas.md).
-5. Use [11-practice-prompts.md](11-practice-prompts.md), [12-oral-exam-preparation.md](12-oral-exam-preparation.md), and [13-contemporary-issues.md](13-contemporary-issues.md) for timed practice.
-6. Use [14-glossary.md](14-glossary.md) for quick review and term-by-term authoritative references.
+   - [Economic development foundations and ethics](02-foundations-and-ethics.md)
+   - [Economic development processes](03-economic-development-processes.md)
+   - [Governance and performance measurement](04-governance-and-performance.md)
+   - [Operations, partnerships, and networking](05-operations-partnerships-and-networking.md)
+   - [Communications and public engagement](06-communications-and-public-engagement.md)
+   - [Planning and land use](07-planning-and-land-use.md)
+   - [Marketing, sales, and site selection](08-marketing-sales-and-site-selection.md)
+   - [Finance, business planning, and economic impact analysis](09-finance-business-planning-and-impact-analysis.md)
+4. Practise the quantitative material in [calculations and formulas](10-calculations-and-formulas.md).
+5. Use the [written practice prompts](11-practice-prompts.md), [oral exam preparation](12-oral-exam-preparation.md), and [contemporary economic development issues](13-contemporary-issues.md) for timed practice.
+6. Use the [economic development glossary](14-glossary.md) for quick review and term-by-term authoritative references.
 
 ## What a strong exam answer usually does
 
@@ -49,9 +64,9 @@ Each substantive chapter ends with a **Learn more** section that connects its co
 
 Definitions in this guide are plain-language study syntheses rather than quotations. Where legitimate professional conventions differ—especially in financial ratios, SMART wording, pipeline stages, planning terminology, and evaluation language—the guide identifies the convention or asks the reader to state it explicitly.
 
-## Source date
+## Current exam information and public sources
 
-The online requirements were checked on July 25, 2026. See [15-public-sources-and-disclaimer.md](15-public-sources-and-disclaimer.md) for detailed public sources, interpretation notes, and limitations.
+The online requirements were checked on July 25, 2026. Candidates should confirm current eligibility and examination rules through EDAC's [Ec.D. Designation](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation](https://exam.edac.ca/exam-prep/) pages. See the [public sources and disclaimer](15-public-sources-and-disclaimer.md) for detailed references, interpretation notes, and limitations.
 
 ## Contributing
 
@@ -65,6 +80,6 @@ This guide is licensed under the [Creative Commons Attribution 4.0 International
 
 Suggested attribution:
 
-> *Independent EDAC Ec.D. Study Guide* by [B1ackCat7](https://github.com/B1ackCat7), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> *EDAC Ec.D. Exam Study Guide* by [B1ackCat7](https://github.com/B1ackCat7), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 See [LICENSE.md](LICENSE.md) for the full repository licensing notice. The license applies only to original content in this repository; third-party names, marks, linked resources, and quoted or otherwise separately identified material remain subject to their respective rights.
