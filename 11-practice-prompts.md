@@ -152,7 +152,7 @@ After scoring, rewrite only the weakest section. This is faster than rewriting e
 
 - [EDAC — Exam Preparation](https://exam.edac.ca/exam-prep/): confirm the current public exam format before setting timers or scoring practice.
 - [EDAC — Code of Ethics](https://edac.ca/about/code-of-ethics/): use the current code when reviewing ethics and professional-judgment answers.
-- [Glossary and definition sources](14-glossary.md#learn-more-definition-sources): check terminology and follow the public references after each practice session.
+- [Glossary with definition sources](14-glossary.md): check terminology and follow the public references after each practice session.
 - [Calculations and formulas](10-calculations-and-formulas.md#learn-more): review formula conventions before scoring quantitative drills.
 - [Public sources and disclaimer](15-public-sources-and-disclaimer.md): verify current exam and contemporary-issue sources.
 

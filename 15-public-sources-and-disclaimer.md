@@ -57,7 +57,7 @@ The contemporary-issues chapter uses these sources to identify themes, not to pr
 ## Interpretation notes
 
 - Every substantive chapter contains a topic-specific **Learn more** section.
-- The glossary contains a term-by-term [Learn more directory](14-glossary.md#learn-more-definition-sources) linking every definition to an authoritative public reference.
+- The [glossary](14-glossary.md) pairs every definition with one or more authoritative public references.
 - The currently published essay limit is a maximum of 3,000 words.
 - The public exam page labels eight short-answer sections A through H but does not publicly state the subject assigned to each section.
 - EDAC's current designation page identifies business retention and expansion, investment attraction, and strategic planning as three pillars. The exam page does not publicly map the eight short-answer sections to named topics, so this guide studies a broader professional knowledge base.
@@ -82,4 +82,4 @@ This is an independently created educational resource and is not endorsed by EDA
 
 - Start with [EDAC's Ec.D. Designation page](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation page](https://exam.edac.ca/exam-prep/) for current official examination information.
 - Use the [chapter-level reference sections](README.md#learn-more-and-references) to research a topic in context.
-- Use the [term-by-term glossary directory](14-glossary.md#learn-more-definition-sources) when checking a definition or competing convention.
+- Use the [term-by-term glossary](14-glossary.md) when checking a definition or competing convention.

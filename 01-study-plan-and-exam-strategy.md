@@ -185,4 +185,4 @@ Before submitting, ask:
 - [EDAC — Exam Preparation](https://exam.edac.ca/exam-prep/): use the current published structure to shape timed practice.
 - [EDAC — Exam Policies](https://exam.edac.ca/policies/): confirm current candidate, technical, result, and re-write requirements.
 - [Treasury Board of Canada Secretariat — Evaluation 101](https://www.canada.ca/en/treasury-board-secretariat/services/audit-evaluation/evaluation-government-canada/evaluation-101-backgrounder.html): a useful primer for organizing answers around inputs, activities, outputs, and outcomes.
-- [Glossary and definition sources](14-glossary.md#learn-more-definition-sources): review unfamiliar terminology and follow the external references before practising.
+- [Glossary with definition sources](14-glossary.md): review unfamiliar terminology and follow the external references before practising.
