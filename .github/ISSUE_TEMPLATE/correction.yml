@@ -1,0 +1,59 @@
+name: Suggest a correction or improvement
+description: Report an accuracy, clarity, accessibility, or public-source issue
+title: "[Correction] "
+labels:
+  - documentation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping improve this unofficial study guide. Submit only information that is safe and lawful to publish. Do not include personal or confidential information, copyrighted preparation materials, or authentic examination questions or answers.
+  - type: dropdown
+    id: category
+    attributes:
+      label: Type of improvement
+      options:
+        - Accuracy or outdated information
+        - Public source or broken link
+        - Clarity or organization
+        - Accessibility
+        - Other
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Chapter and section
+      description: Identify the Markdown file and heading.
+      placeholder: "Example: 07-planning-and-land-use.md — Development approvals"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: What should be corrected or improved?
+      description: Summarize the issue without including private, confidential, or restricted examination content.
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Suggested revision
+      description: Offer original wording where practical.
+    validations:
+      required: false
+  - type: input
+    id: source
+    attributes:
+      label: Public supporting source
+      description: Link to an authoritative public source, preferably an official or primary source.
+      placeholder: "https://..."
+    validations:
+      required: false
+  - type: checkboxes
+    id: publication
+    attributes:
+      label: Publication check
+      options:
+        - label: I confirm that this submission contains no personal or confidential information and no authentic examination questions or answers.
+          required: true
