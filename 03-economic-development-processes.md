@@ -1,6 +1,8 @@
-# Economic Development Processes
+# <img src="assets/icons/workflow.svg" alt="" width="30" height="30"> Economic Development Processes
 
-## Table of contents
+> **Guide navigation:** [← Previous: Foundations and ethics](02-foundations-and-ethics.md) · [Cover and contents](README.md) · [Next: Governance and performance →](04-governance-and-performance.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Portfolio approach](#portfolio-approach)
 - [Business attraction and investment](#business-attraction-and-investment)
@@ -252,7 +254,7 @@ Track a mix of:
 - client satisfaction and trust; and
 - policy, infrastructure, or program changes resulting from aggregate intelligence.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [Ontario — Business Retention and Expansion Program](https://www.ontario.ca/page/business-retention-and-expansion-program): a Canadian public-sector BR&E framework.
 - [World Bank — Investment Policy and Promotion](https://www.worldbank.org/en/topic/investment-climate/brief/investment-policy-and-promotion): investment attraction, facilitation, retention, and expansion.
@@ -261,3 +263,7 @@ Track a mix of:
 - [U.S. Economic Development Administration — Economic Resilience](https://www.eda.gov/resources/comprehensive-economic-development-strategy/content/economic-resilience): preparedness, diversification, response, and recovery.
 
 Pipeline terms such as *lead*, *prospect*, and *project* vary among organizations. Define each stage and qualification rule before reporting conversion.
+
+---
+
+> **Guide navigation:** [← Previous: Foundations and ethics](02-foundations-and-ethics.md) · [Cover and contents](README.md) · [Next: Governance and performance →](04-governance-and-performance.md)

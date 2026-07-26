@@ -1,6 +1,8 @@
-# Operations, Partnerships, and Networking
+# <img src="assets/icons/users.svg" alt="" width="30" height="30"> Operations, Partnerships, and Networking
 
-## Table of contents
+> **Guide navigation:** [← Previous: Governance and performance](04-governance-and-performance.md) · [Cover and contents](README.md) · [Next: Communications and public engagement →](06-communications-and-public-engagement.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Mentoring](#mentoring)
   - [Common forms](#common-forms)
@@ -197,7 +199,7 @@ Possible participants and roles:
 
 A strong answer also explains engagement method, decision authority, conflict management, phasing, business-disruption mitigation, financing, measures, and communication.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [Justice Canada — Three Years On: Mentoring](https://justice.canada.ca/eng/rp-pr/other-autre/rr12_1/p1.html): mentoring as a learning relationship and organizational practice.
 - [Infrastructure Ontario — Public-private partnerships frequently asked questions](https://www.infrastructureontario.ca/en/what-we-do/capital-delivery/faqs---public-private-partnerships-p3s/): Canadian P3 delivery and risk-allocation context.
@@ -206,3 +208,7 @@ A strong answer also explains engagement method, decision authority, conflict ma
 - [EDAC — Ec.D. Re-certification](https://edac.ca/professional-development/ec-d-recertification/): verify current continuing-membership and re-certification requirements.
 
 Stakeholder engagement does not replace legal duties, government-to-government relationships, or distinctions among Indigenous nations and rights-holding collectives.
+
+---
+
+> **Guide navigation:** [← Previous: Governance and performance](04-governance-and-performance.md) · [Cover and contents](README.md) · [Next: Communications and public engagement →](06-communications-and-public-engagement.md)

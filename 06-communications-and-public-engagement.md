@@ -1,6 +1,8 @@
-# Communications and Public Engagement
+# <img src="assets/icons/messages-square.svg" alt="" width="30" height="30"> Communications and Public Engagement
 
-## Table of contents
+> **Guide navigation:** [← Previous: Operations, partnerships, and networking](05-operations-partnerships-and-networking.md) · [Cover and contents](README.md) · [Next: Planning and land use →](07-planning-and-land-use.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Communication plan](#communication-plan)
 - [Message map](#message-map)
@@ -218,7 +220,7 @@ For a communications scenario:
 8. set timing and feedback loops; and
 9. measure understanding and action.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [Health Canada and Public Health Agency of Canada — Guidelines on Public Engagement](https://www.canada.ca/en/health-canada/services/publications/health-system-services/health-canada-public-health-agency-canada-guidelines-public-engagement.html): planning, conducting, reporting, and evaluating engagement.
 - [Health Canada and Public Health Agency of Canada — Public engagement glossary](https://www.canada.ca/en/health-canada/services/publications/health-system-services/health-canada-public-health-agency-canada-guidelines-public-engagement/glossary-terms.html): engagement and stakeholder terminology.
@@ -227,3 +229,7 @@ For a communications scenario:
 - [EDAC — Code of Ethics](https://edac.ca/about/code-of-ethics/): accuracy, confidentiality, integrity, and professional conduct.
 
 Use *stakeholder* for affected or interested parties where appropriate, but not as a substitute for *Indigenous rights-holder*.
+
+---
+
+> **Guide navigation:** [← Previous: Operations, partnerships, and networking](05-operations-partnerships-and-networking.md) · [Cover and contents](README.md) · [Next: Planning and land use →](07-planning-and-land-use.md)

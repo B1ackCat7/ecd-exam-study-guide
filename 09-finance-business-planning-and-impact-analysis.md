@@ -1,6 +1,8 @@
-# Finance, Business Planning, and Impact Analysis
+# <img src="assets/icons/chart-column.svg" alt="" width="30" height="30"> Finance, Business Planning, and Impact Analysis
 
-## Table of contents
+> **Guide navigation:** [← Previous: Marketing, sales, and site selection](08-marketing-sales-and-site-selection.md) · [Cover and contents](README.md) · [Next: Calculations and formulas →](10-calculations-and-formulas.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Why finance matters](#why-finance-matters)
 - [The three financial statements](#the-three-financial-statements)
@@ -307,7 +309,7 @@ For a financial or business case:
 7. assess public impact and additionality if support is requested;
 8. recommend action, conditions, referrals, and monitoring.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [IFRS Foundation — Conceptual Framework for Financial Reporting](https://www.ifrs.org/issued-standards/list-of-standards/conceptual-framework/?headerSearchOption=phrase): assets, liabilities, equity, recognition, and measurement concepts.
 - [IFRS Foundation — IAS 1 Presentation of Financial Statements](https://www.ifrs.org/issued-standards/list-of-standards/ias-1-presentation-of-financial-statements.html/): financial-statement presentation.
@@ -316,3 +318,7 @@ For a financial or business case:
 - [Treasury Board of Canada Secretariat — Canadian Cost-Benefit Analysis Guide](https://www.tbs-sct.canada.ca/rtrap-parfa/analys/analys-eng.pdf): public-sector cost-benefit analysis.
 - [Statistics Canada — Guide to Using the Input-Output Simulation Model](https://www.statcan.gc.ca/en/statistical-programs/document/5115_D6_T9_V1): direct, indirect, and induced economic effects.
 - [City of Calgary — A Municipal Fiscal Impact Model](https://www.calgary.ca/content/dam/www/cfod/finance/documents/corporate-economics/other-reports/municipal-fiscal-impact-model.pdf): municipal fiscal-impact concepts.
+
+---
+
+> **Guide navigation:** [← Previous: Marketing, sales, and site selection](08-marketing-sales-and-site-selection.md) · [Cover and contents](README.md) · [Next: Calculations and formulas →](10-calculations-and-formulas.md)

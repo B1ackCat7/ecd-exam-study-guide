@@ -1,8 +1,10 @@
-# Glossary
+# <img src="assets/icons/book-a.svg" alt="" width="30" height="30"> Glossary
+
+> **Guide navigation:** [← Previous: Contemporary issues](13-contemporary-issues.md) · [Cover and contents](README.md) · [Next: Public sources and disclaimer →](15-public-sources-and-disclaimer.md)
 
 Definitions are plain-language syntheses written for exam review. They are not quotations. Confirm jurisdiction-specific legal terms and follow the linked primary sources for technical detail. Each row pairs the study definition with one or more public sources for deeper learning and comparison.
 
-## Table of contents
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [A](#a)
 - [B](#b)
@@ -202,3 +204,7 @@ Definitions are plain-language syntheses written for exam review. They are not q
 | Term | Definition | Sources |
 | --- | --- | --- |
 | **Working capital** | Current assets minus current liabilities. | [Business Development Bank of Canada — Using the working capital ratio](https://www.bdc.ca/en/articles-tools/money-finance/manage-finances/using-working-capital-ratio) |
+
+---
+
+> **Guide navigation:** [← Previous: Contemporary issues](13-contemporary-issues.md) · [Cover and contents](README.md) · [Next: Public sources and disclaimer →](15-public-sources-and-disclaimer.md)

@@ -1,8 +1,12 @@
-# Oral Exam Preparation
+# <img src="assets/icons/mic.svg" alt="" width="30" height="30"> Oral Exam Preparation
+
+> **Guide navigation:** [← Previous: Mock exam for practice](11-mock-exam-for-practice.md) · [Cover and contents](README.md) · [Next: Contemporary issues →](13-contemporary-issues.md)
 
 EDAC's public exam page says the oral portion is approximately 30 minutes and worth 9 marks. It follows the online portion or may be scheduled separately. Confirm the arrangement with the proctor.
 
-## Table of contents
+The mock questions in this chapter were prepared from the professional competencies, frameworks, and terminology covered throughout this study guide.
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [What to know about your local economy](#what-to-know-about-your-local-economy)
 - [One-page local economy brief](#one-page-local-economy-brief)
@@ -11,7 +15,10 @@ EDAC's public exam page says the oral portion is approximately 30 minutes and wo
   - [Scenario question](#scenario-question)
   - [Experience question](#experience-question)
   - [Recommendation question](#recommendation-question)
-- [Original practice questions](#original-practice-questions)
+- [Mock oral questions](#mock-oral-questions)
+  - [Local evidence and strategy](#local-evidence-and-strategy)
+  - [Professional judgment and delivery](#professional-judgment-and-delivery)
+  - [Finance, relationships, and learning](#finance-relationships-and-learning)
 - [Delivery](#delivery)
 - [Challenging follow-ups](#challenging-follow-ups)
 - [Mock oral process](#mock-oral-process)
@@ -95,26 +102,51 @@ Be clear about your own role. "We" can hide whether you led, supported, or obser
 
 State the recommendation early. Do not make the proctor infer it.
 
-## Original practice questions
+## Mock oral questions
 
-1. Describe your local economy in two minutes.
-2. What are its three most important economic opportunities and why?
-3. What is its most serious vulnerability?
-4. How do global events reach your local businesses?
-5. How would you know whether the economy is becoming more diversified?
-6. Describe a project in which you built consensus among groups with different interests.
-7. Describe a time evidence changed your recommendation.
-8. How do you protect confidentiality while maintaining public accountability?
-9. What is the EDO's role in a controversial development proposal?
-10. What measures best demonstrate the value of your economic development work?
-11. How would you respond to a major employer closure?
-12. How would you improve the local business climate without using incentives?
-13. What should be in an investment-ready community profile?
-14. Explain a location quotient to a councillor without jargon.
-15. What financial warning signs would cause you to refer a business to a qualified advisor?
-16. How should an EDO work with Indigenous rights-holders and economic development partners?
-17. What is one professional mistake or weak result from which you learned?
-18. What current issue will matter most to your community over the next three years?
+Ask a practice partner to vary the fictional place, sector, stakeholder, and constraint. Avoid rehearsing a fixed script.
+
+### Local evidence and strategy
+
+**1.** Brief a newly appointed chief administrative officer on the local economy, including one strength, one constraint, one uncertainty, and one decision that deserves attention.
+
+**2.** A commonly cited local statistic conflicts with a newer public source. How would you decide what to use and explain the difference?
+
+**3.** A fictional employer says a labour shortage is preventing expansion. What questions would you ask before recommending action?
+
+**4.** Two neighbouring communities are competing for the same project while also sharing a labour market and infrastructure. How would you advise your organization?
+
+**5.** What evidence would convince you that a business-support program should be expanded, redesigned, or stopped?
+
+**6.** Describe an experience in which your initial understanding of a stakeholder's interests was incomplete. What changed and what did you learn?
+
+### Professional judgment and delivery
+
+**7.** A partner wants to publicize a project before key assumptions have been verified. How would you respond?
+
+**8.** Explain how you would maintain confidentiality while still documenting decisions and reporting public value.
+
+**9.** A fictional employment-site proposal has economic advantages but unresolved infrastructure and community concerns. What is the economic developer's proper role?
+
+**10.** Council asks for one number that proves the economic-development function is successful. How would you answer?
+
+**11.** Several small firms are affected by the same disruption, but none has the capacity to coordinate a response. What would you do first?
+
+**12.** A community's incentive budget is eliminated. What other factors could improve its investment and business climate?
+
+### Finance, relationships, and learning
+
+**13.** What information would you refuse to place in a public community profile, and why?
+
+**14.** Explain the difference between an output and an outcome to a board member using an economic-development example.
+
+**15.** A firm's revenue is rising but liquidity is worsening. What might explain this, and where does the EDO's advisory role end?
+
+**16.** A regional initiative affects Indigenous rights and economic interests. How should relationship, protocol, authority, and project timing be approached?
+
+**17.** Describe a professional decision you would handle differently today. Separate what you controlled from what you learned.
+
+**18.** Choose one emerging issue and explain the evidence you would monitor before deciding whether local action is warranted.
 
 ## Delivery
 
@@ -161,7 +193,7 @@ Practise:
 - water and identification ready;
 - concise opening and closing habits practised.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [EDAC — Exam Preparation](https://exam.edac.ca/exam-prep/): confirm the current oral format, timing, platform, and preparation guidance.
 - [EDAC — Exam Policies](https://exam.edac.ca/policies/): verify the current candidate agreement and examination requirements.
@@ -170,3 +202,7 @@ Practise:
 - [ISED — Trade Data Online](https://ised-isde.canada.ca/site/trade-data-online/en): examine trade exposure by industry, product, and geography.
 
 Use these sources as starting points, then add current provincial, territorial, Indigenous, municipal, regional, utility, property, workforce, and business evidence relevant to your community.
+
+---
+
+> **Guide navigation:** [← Previous: Mock exam for practice](11-mock-exam-for-practice.md) · [Cover and contents](README.md) · [Next: Contemporary issues →](13-contemporary-issues.md)

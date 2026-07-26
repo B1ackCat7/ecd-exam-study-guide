@@ -1,6 +1,8 @@
-# Marketing, Sales, and Site Selection
+# <img src="assets/icons/target.svg" alt="" width="30" height="30"> Marketing, Sales, and Site Selection
 
-## Table of contents
+> **Guide navigation:** [← Previous: Planning and land use](07-planning-and-land-use.md) · [Cover and contents](README.md) · [Next: Finance, business planning, and impact analysis →](09-finance-business-planning-and-impact-analysis.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Marketing versus sales](#marketing-versus-sales)
 - [Community competitive analysis](#community-competitive-analysis)
@@ -241,7 +243,7 @@ Aftercare requires regular, confidential contact and issue resolution. It is bot
 
 Interpret results over a realistic multi-year cycle. Major investment decisions may take years.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [SelectUSA — Investor Guide](https://www.trade.gov/selectusa-investor-guide): public-sector guidance on the investor journey, location assessment, and establishment process.
 - [SelectUSA — Reports and Publications](https://www.trade.gov/selectusa-reports-and-publications): competitive-analysis and value-proposition resources.
@@ -251,3 +253,7 @@ Interpret results over a realistic multi-year cycle. Major investment decisions 
 - [Salesforce — Lead qualification](https://trailhead.salesforce.com/content/learn/modules/lead-qualification-quick-look/get-to-know-lead-qualification): an introduction to explicit qualification criteria.
 
 There is no universal lead-to-project vocabulary. Define the entry and exit criteria for each funnel stage, report conversion between named stages, and avoid comparing organizations that use different definitions.
+
+---
+
+> **Guide navigation:** [← Previous: Planning and land use](07-planning-and-land-use.md) · [Cover and contents](README.md) · [Next: Finance, business planning, and impact analysis →](09-finance-business-planning-and-impact-analysis.md)

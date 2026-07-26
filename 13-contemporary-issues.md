@@ -1,8 +1,10 @@
-# Contemporary Issues
+# <img src="assets/icons/globe-2.svg" alt="" width="30" height="30"> Contemporary Issues
 
-The contemporary essay should demonstrate that you can translate a major event into local economic impacts and a credible response.
+> **Guide navigation:** [← Previous: Oral exam preparation](12-oral-exam-preparation.md) · [Cover and contents](README.md) · [Next: Glossary →](14-glossary.md)
 
-## Table of contents
+The contemporary essay should demonstrate that you can translate a major event into local economic impacts and a credible response. The analytical questions in this chapter were prepared from the public issues and study frameworks covered in this guide.
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Analysis framework](#analysis-framework)
 - [Current Canadian themes as of July 25, 2026](#current-canadian-themes-as-of-july-25-2026)
@@ -36,7 +38,7 @@ Use LOCAL IMPACT:
 
 ## Current Canadian themes as of July 25, 2026
 
-These themes are prompts for analysis, not predictions of the exam.
+These public themes are starting points for independent analysis and mock-exam preparation.
 
 ### Trade restructuring and tariffs
 
@@ -172,7 +174,7 @@ Thesis:
 10. Conclusion
 ```
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [Bank of Canada — Monetary Policy Report](https://www.bankofcanada.ca/publications/mpr/): growth, inflation, interest rates, trade, productivity, and risk.
 - [Statistics Canada — Labour statistics](https://www.statcan.gc.ca/en/subjects-start/labour_): employment, wages, vacancies, hours, and productivity.
@@ -182,3 +184,7 @@ Thesis:
 - [Government of Canada — Business and economic development for Indigenous Peoples](https://www.canada.ca/en/services/indigenous-peoples/business-and-economic-development-indigenous-peoples.html): federal program and information entry points.
 
 Contemporary evidence ages quickly. Recheck publication dates, definitions, revisions, and geographic relevance close to the examination rather than relying on this chapter's dated snapshot.
+
+---
+
+> **Guide navigation:** [← Previous: Oral exam preparation](12-oral-exam-preparation.md) · [Cover and contents](README.md) · [Next: Glossary →](14-glossary.md)

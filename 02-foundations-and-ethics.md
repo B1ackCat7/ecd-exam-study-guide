@@ -1,6 +1,8 @@
-# Foundations and Ethics
+# <img src="assets/icons/scale.svg" alt="" width="30" height="30"> Foundations and Ethics
 
-## Table of contents
+> **Guide navigation:** [← Previous: Study plan and exam strategy](01-study-plan-and-exam-strategy.md) · [Cover and contents](README.md) · [Next: Economic development processes →](03-economic-development-processes.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [A working definition](#a-working-definition)
 - [Role of the economic developer](#role-of-the-economic-developer)
@@ -163,7 +165,7 @@ Ethics should not be confined to a standalone ethics answer. Add it naturally to
 - finance: defensible assumptions and disclosure of limitations; and
 - performance: honest attribution and reporting of both successes and failures.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [EDAC — Code of Ethics](https://edac.ca/about/code-of-ethics/): the primary professional reference for this chapter.
 - [Treasury Board of Canada Secretariat — Values and Ethics Code for the Public Sector](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=25049): public-interest, integrity, stewardship, and conflict principles.
@@ -171,3 +173,7 @@ Ethics should not be confined to a standalone ethics answer. Add it naturally to
 - [Justice Canada — Consultation terminology](https://justice.canada.ca/eng/cons/def.html): legal context for Indigenous consultation and rights-holder terminology.
 
 For definitions of conflict of interest, equity, rights-holder, stakeholder, and triple bottom line, see the [glossary](14-glossary.md).
+
+---
+
+> **Guide navigation:** [← Previous: Study plan and exam strategy](01-study-plan-and-exam-strategy.md) · [Cover and contents](README.md) · [Next: Economic development processes →](03-economic-development-processes.md)

@@ -1,17 +1,22 @@
-# Public Sources and Disclaimer
+# <img src="assets/icons/library.svg" alt="" width="30" height="30"> Public Sources and Disclaimer
 
-## Table of contents
+> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: License and attribution →](LICENSE.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Verification date](#verification-date)
 - [Official EDAC sources](#official-edac-sources)
 - [Canadian economic and community data](#canadian-economic-and-community-data)
 - [Contemporary-issue sources](#contemporary-issue-sources)
 - [Interpretation notes](#interpretation-notes)
+- [Mock-exam design](#mock-exam-design)
+- [AI assistance disclosure](#ai-assistance-disclosure)
+- [Feedback and contact](#feedback-and-contact)
 - [Copyright and use](#copyright-and-use)
 - [Disclaimer](#disclaimer)
 - [Learn more](#learn-more)
 
-## Verification date
+## <img src="assets/icons/calendar-check.svg" alt="" width="22" height="22"> Verification date
 
 The public requirements and links in this guide were checked on July 25, 2026. Certification rules can change, so candidates should verify them again before registering or writing.
 
@@ -66,20 +71,38 @@ The contemporary-issues chapter uses these sources to identify themes, not to pr
 - Days sales outstanding may use 360 or 365 days. State the convention and use it consistently with the benchmark.
 - Economic-development outcomes should be supported by current evidence rather than treated as universal percentages or guarantees.
 
-## Copyright and use
+## Mock-exam design
 
-This guide provides original educational explanations and practice prompts and links to authoritative public sources. EDAC retains rights in its publications, examination material, name, marks, and artwork.
+The written, calculation, and oral mock questions were prepared from the concepts, frameworks, terminology, and public references used throughout this study guide. Constructed scenarios and figures provide practice in a format informed by the publicly described examination structure.
 
-Copyright © 2026 [B1ackCat7](https://github.com/B1ackCat7). The original content in this guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Readers may copy, redistribute, remix, transform, and build upon it for any purpose, including commercially, provided they give appropriate credit, link to the license, and indicate whether changes were made. See [LICENSE.md](LICENSE.md).
+## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance disclosure
+
+Xiao prepared the underlying study notes and directed the guide's scope, substance, and final editorial decisions. OpenAI's Codex, using the GPT-5.6 model, assisted with synthesis, additional public-source research, editing, Markdown and LaTeX formatting, and production of the PDF edition.
+
+AI-assisted content can contain errors or omissions. Xiao reviewed the guide and takes responsibility for its published content. Readers should verify examination requirements and substantive information with EDAC and the cited public sources.
+
+## <img src="assets/icons/user-round.svg" alt="" width="22" height="22"> Feedback and contact
+
+This guide was created by [Xiao](https://www.linkedin.com/in/xxiao27/), who publishes projects on GitHub as [B1ackCat7](https://github.com/B1ackCat7). Constructive corrections, comments, and professional connections are welcome through [LinkedIn](https://www.linkedin.com/in/xxiao27/).
+
+## <img src="assets/icons/badge-check.svg" alt="" width="22" height="22"> Copyright and use
+
+This guide provides original educational explanations and purpose-built mock questions and links to authoritative public sources. EDAC retains rights in its publications, examination material, name, marks, and artwork.
+
+Copyright © 2026 [Xiao](https://www.linkedin.com/in/xxiao27/). The original content in this guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Readers may copy, redistribute, remix, transform, and build upon it for any purpose, including commercially, provided they give appropriate credit, link to the license, and indicate whether changes were made. See [LICENSE.md](LICENSE.md).
 
 The license does not grant rights in EDAC's name, marks, artwork, publications, examination material, or any third-party content linked or separately identified in this guide.
 
-## Disclaimer
+## <img src="assets/icons/shield-alert.svg" alt="" width="22" height="22"> Disclaimer
 
 This is an independently created educational resource and is not endorsed by EDAC. It is not legal, financial, accounting, planning, investment, or examination advice. EDAC is the authority for certification rules. Applicable governments and rights-holders are the authorities for law, jurisdiction, and approval requirements.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - Start with [EDAC's Ec.D. Designation page](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation page](https://exam.edac.ca/exam-prep/) for current official examination information.
 - Use the [chapter-level reference sections](README.md#learn-more-and-references) to research a topic in context.
 - Use the [term-by-term glossary](14-glossary.md) when checking a definition or competing convention.
+
+---
+
+> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: License and attribution →](LICENSE.md)

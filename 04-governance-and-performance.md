@@ -1,6 +1,8 @@
-# Governance and Performance
+# <img src="assets/icons/chart-no-axes-combined.svg" alt="" width="30" height="30"> Governance and Performance
 
-## Table of contents
+> **Guide navigation:** [← Previous: Economic development processes](03-economic-development-processes.md) · [Cover and contents](README.md) · [Next: Operations, partnerships, and networking →](05-operations-partnerships-and-networking.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Governance is an operating system](#governance-is-an-operating-system)
 - [Common structures](#common-structures)
@@ -203,7 +205,7 @@ For a governance scenario:
 7. add funding, conflict, confidentiality, and reporting controls; and
 8. define outcomes and a review date.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [Treasury Board of Canada Secretariat — Evaluation 101](https://www.canada.ca/en/treasury-board-secretariat/services/audit-evaluation/evaluation-government-canada/evaluation-101-backgrounder.html): logic models, theories of change, and results chains.
 - [Treasury Board of Canada Secretariat — Policy on Results glossary](https://www.tbs-sct.canada.ca/pol/doc-eng.aspx?id=31300&section=glossary): Canadian federal performance and evaluation terminology.
@@ -212,3 +214,7 @@ For a governance scenario:
 - [Treasury Board of Canada Secretariat — Guiding Principles for the Management of Crown Corporations](https://www.canada.ca/en/treasury-board-secretariat/services/guidance-crown-corporations/guiding-principles-management-crown-corporations.html): arm's-length governance and accountability.
 
 SMART wording varies across sources. This guide uses *specific, measurable, achievable, relevant, and time-bound*; identify the version you use rather than treating another established variant as automatically wrong.
+
+---
+
+> **Guide navigation:** [← Previous: Economic development processes](03-economic-development-processes.md) · [Cover and contents](README.md) · [Next: Operations, partnerships, and networking →](05-operations-partnerships-and-networking.md)

@@ -1,6 +1,8 @@
-# Calculations and Formulas
+# <img src="assets/icons/calculator.svg" alt="" width="30" height="30"> Calculations and Formulas
 
-## Table of contents
+> **Guide navigation:** [← Previous: Finance, business planning, and impact analysis](09-finance-business-planning-and-impact-analysis.md) · [Cover and contents](README.md) · [Next: Mock exam for practice →](11-mock-exam-for-practice.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Calculation habits](#calculation-habits)
 - [Location quotient](#location-quotient)
@@ -378,7 +380,7 @@ State whether in-kind contributions are included. Leverage is not proof of impac
 - counting the same impact in multiple categories;
 - omitting inflation, timing, risk, or lifecycle cost.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [Statistics Canada — Location quotient](https://www150.statcan.gc.ca/n1/pub/21-006-x/2008007/def-eng.htm): interpretation of employment concentration.
 - [Minnesota Department of Transportation — Regional Economic Analysis and Shift-Share Analysis](https://www.dot.mn.gov/ofrw/freight/PDF/d1plan/wp2.pdf): reference growth, industry mix, and differential or local shift.
@@ -389,3 +391,7 @@ State whether in-kind contributions are included. Leverage is not proof of impac
 - [Ontario — Examples of identifying performance measures and data](https://www.ontario.ca/document/performance-measurement-agriculture-agri-food-and-economic-development-organizations/appendix-5-examples-identifying-performance-measures-and-data): economic-development performance measures.
 
 When two recognized formulas differ, name the convention, use it consistently, and compare it only with a benchmark calculated the same way.
+
+---
+
+> **Guide navigation:** [← Previous: Finance, business planning, and impact analysis](09-finance-business-planning-and-impact-analysis.md) · [Cover and contents](README.md) · [Next: Mock exam for practice →](11-mock-exam-for-practice.md)

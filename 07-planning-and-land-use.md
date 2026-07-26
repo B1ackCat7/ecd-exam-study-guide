@@ -1,6 +1,8 @@
-# Planning and Land Use
+# <img src="assets/icons/map.svg" alt="" width="30" height="30"> Planning and Land Use
 
-## Table of contents
+> **Guide navigation:** [← Previous: Communications and public engagement](06-communications-and-public-engagement.md) · [Cover and contents](README.md) · [Next: Marketing, sales, and site selection →](08-marketing-sales-and-site-selection.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Strategic economic planning](#strategic-economic-planning)
   - [Seven-step cycle](#seven-step-cycle)
@@ -211,7 +213,7 @@ A strong approach combines:
 - clear governance and phasing;
 - measures such as vacancy, foot traffic, investment, housing, business survival, and user experience.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [Ontario — Official plans](https://www.ontario.ca/document/citizens-guide-land-use-planning/official-plans): one Canadian jurisdiction's explanation of long-term municipal land-use policy.
 - [Ontario — Zoning bylaws](https://www.ontario.ca/document/citizens-guide-land-use-planning/zoning-bylaws): how zoning implements land-use direction through permitted uses and standards.
@@ -220,3 +222,7 @@ A strong approach combines:
 - [City of Calgary — A Municipal Fiscal Impact Model](https://www.calgary.ca/content/dam/www/cfod/finance/documents/corporate-economics/other-reports/municipal-fiscal-impact-model.pdf): municipal revenue-and-cost implications of growth.
 
 Planning law and terminology differ across provinces and territories. *Official plan*, *municipal plan*, *zoning bylaw*, and *land-use bylaw* are not universally interchangeable legal terms; use the language of the applicable jurisdiction.
+
+---
+
+> **Guide navigation:** [← Previous: Communications and public engagement](06-communications-and-public-engagement.md) · [Cover and contents](README.md) · [Next: Marketing, sales, and site selection →](08-marketing-sales-and-site-selection.md)

@@ -1,6 +1,8 @@
-# Study Plan and Exam Strategy
+# <img src="assets/icons/calendar-check.svg" alt="" width="30" height="30"> Study Plan and Exam Strategy
 
-## Table of contents
+> **Guide navigation:** [← Previous: Exam overview](00-exam-overview.md) · [Cover and contents](README.md) · [Next: Foundations and ethics →](02-foundations-and-ethics.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Build an evidence bank first](#build-an-evidence-bank-first)
 - [Four-week plan](#four-week-plan)
@@ -69,7 +71,7 @@ Remove client names and confidential details from any study notes that could be 
 - Review the three financial statements and the main ratio families.
 - Practise budgeting, business planning, and development impact analysis.
 - Complete formula drills without notes.
-- Complete one five-hour simulation using original practice prompts.
+- Complete one five-hour simulation using the purpose-built mock exam questions.
 - Review weak areas, then repeat a shorter mixed simulation.
 - Refresh current events during the final week.
 
@@ -180,9 +182,13 @@ Before submitting, ask:
 - Did I acknowledge risks and a contingency?
 - Did I connect the concept to practice?
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [EDAC — Exam Preparation](https://exam.edac.ca/exam-prep/): use the current published structure to shape timed practice.
 - [EDAC — Exam Policies](https://exam.edac.ca/policies/): confirm current candidate, technical, result, and re-write requirements.
 - [Treasury Board of Canada Secretariat — Evaluation 101](https://www.canada.ca/en/treasury-board-secretariat/services/audit-evaluation/evaluation-government-canada/evaluation-101-backgrounder.html): a useful primer for organizing answers around inputs, activities, outputs, and outcomes.
 - [Glossary with definition sources](14-glossary.md): review unfamiliar terminology and follow the external references before practising.
+
+---
+
+> **Guide navigation:** [← Previous: Exam overview](00-exam-overview.md) · [Cover and contents](README.md) · [Next: Foundations and ethics →](02-foundations-and-ethics.md)

@@ -1,6 +1,8 @@
-# Exam Overview
+# <img src="assets/icons/compass.svg" alt="" width="30" height="30"> Exam Overview
 
-## Table of contents
+> **Guide navigation:** [← Previous: Cover and contents](README.md) · [Cover and contents](README.md) · [Next: Study plan and exam strategy →](01-study-plan-and-exam-strategy.md)
+
+## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
 - [Current public eligibility requirements](#current-public-eligibility-requirements)
 - [Published exam structure](#published-exam-structure)
@@ -116,7 +118,7 @@ At least two weeks before the exam, confirm:
 - what happens after a technical interruption; and
 - when and how the oral portion will occur.
 
-## Learn more
+## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 
 - [EDAC — Ec.D. Designation](https://edac.ca/professional-development/ecd-designation/): public eligibility routes and designation expectations.
 - [EDAC — Exam Preparation](https://exam.edac.ca/exam-prep/): current public exam format, preparation guidance, timing, and technical information.
@@ -124,3 +126,7 @@ At least two weeks before the exam, confirm:
 - [EDAC — Code of Ethics](https://edac.ca/about/code-of-ethics/): professional standards that should inform answers throughout the examination.
 
 EDAC is the authority for current requirements. If its public pages differ, ask EDAC to confirm the rule that applies to you.
+
+---
+
+> **Guide navigation:** [← Previous: Cover and contents](README.md) · [Cover and contents](README.md) · [Next: Study plan and exam strategy →](01-study-plan-and-exam-strategy.md)
