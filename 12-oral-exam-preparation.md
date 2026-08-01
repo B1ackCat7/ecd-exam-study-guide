@@ -4,7 +4,7 @@
 
 EDAC's public exam page says the oral portion is approximately 30 minutes and worth 9 marks. It follows the online portion or may be scheduled separately. Confirm the arrangement with the proctor.
 
-The mock questions in this chapter were prepared from the professional competencies, frameworks, and terminology covered throughout this study guide.
+The mock questions in this chapter use the professional competencies, frameworks, and terminology covered throughout the guide.
 
 ## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 

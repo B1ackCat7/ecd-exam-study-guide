@@ -73,11 +73,11 @@ The contemporary-issues chapter uses these sources to identify themes, not to pr
 
 ## Mock-exam design
 
-The written, calculation, and oral mock questions were prepared from the concepts, frameworks, terminology, and public references used throughout this study guide. Constructed scenarios and figures provide practice in a format informed by the publicly described examination structure.
+The written, calculation, and oral mock questions draw on the concepts, frameworks, terminology, and public references used throughout this study guide. Constructed scenarios and figures provide practice organized around the publicly described examination structure.
 
 ## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance disclosure
 
-Xiao prepared the underlying study notes and directed the guide's scope, substance, and final editorial decisions. OpenAI's Codex, using the GPT-5.6 model, assisted with synthesis, additional public-source research, editing, Markdown and LaTeX formatting, and production of the PDF edition.
+Xiao prepared the underlying study notes and made the final decisions about the guide's scope, content, and wording. OpenAI's Codex, using the GPT-5.6 model, helped synthesize the notes, research additional public sources, edit and format the Markdown and LaTeX files, and produce the PDF edition.
 
 AI-assisted content can contain errors or omissions. Xiao reviewed the guide and takes responsibility for its published content. Readers should verify examination requirements and substantive information with EDAC and the cited public sources.
 
@@ -87,7 +87,7 @@ This guide was created by [Xiao](https://www.linkedin.com/in/xxiao27/), who publ
 
 ## <img src="assets/icons/badge-check.svg" alt="" width="22" height="22"> Copyright and use
 
-This guide provides original educational explanations and purpose-built mock questions and links to authoritative public sources. EDAC retains rights in its publications, examination material, name, marks, and artwork.
+This guide contains original educational explanations and purpose-built mock questions. It links to authoritative public sources, while EDAC retains rights in its publications, examination material, name, marks, and artwork.
 
 Copyright © 2026 [Xiao](https://www.linkedin.com/in/xxiao27/). The original content in this guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Readers may copy, redistribute, remix, transform, and build upon it for any purpose, including commercially, provided they give appropriate credit, link to the license, and indicate whether changes were made. See [LICENSE.md](LICENSE.md).
 

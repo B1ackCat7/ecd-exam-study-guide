@@ -67,7 +67,7 @@ A recommendation should consider:
 - **Social:** inclusion, accessibility, housing, services, health, distributional effects, and community cohesion.
 - **Environmental:** land, water, emissions, climate risk, infrastructure resilience, and cumulative effects.
 
-The goal is not growth at any cost. It is development that is lawful, ethical, financially sustainable, aligned with community objectives, and resilient over time.
+The goal is development that is lawful, ethical, financially sustainable, aligned with community objectives, and resilient over time, rather than growth at any cost.
 
 ## EDAC Code of Ethics: study themes
 
@@ -92,7 +92,7 @@ Read the current [EDAC Code of Ethics](https://edac.ca/about/code-of-ethics/) in
 
 A firm reveals an unannounced expansion and possible land purchase.
 
-A sound response:
+Response priorities:
 
 1. clarify what is confidential and who is authorized to receive it;
 2. store and share information on a need-to-know basis;
@@ -105,7 +105,7 @@ A sound response:
 
 An EDO or board member has a personal relationship with a developer.
 
-A sound response:
+Response priorities:
 
 1. disclose the actual, potential, or perceived conflict;
 2. follow the organization's conflict policy;
@@ -117,7 +117,7 @@ A sound response:
 
 A prospect requests an incentive while comparing multiple communities.
 
-A sound response:
+Response priorities:
 
 - apply a published, lawful, and consistent policy;
 - assess incremental public benefit and opportunity cost;
@@ -130,7 +130,7 @@ A sound response:
 
 A decision-maker asks for a stronger number than the evidence supports.
 
-A sound response:
+Response priorities:
 
 - report the best available data and its source date;
 - state assumptions, range, and limitations;
@@ -154,7 +154,7 @@ Use this sequence:
 
 ## Exam application
 
-Ethics should not be confined to a standalone ethics answer. Add it naturally to other topics:
+Apply ethics throughout the exam, not only in a standalone ethics answer. Connect it naturally to other topics:
 
 - BR&E: confidentiality and aggregated reporting;
 - site selection: accurate data and fair dealing;

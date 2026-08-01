@@ -75,7 +75,7 @@ Before forming a partnership, ask:
 - measurement and reporting;
 - dispute resolution, amendment, and termination.
 
-Use a RACI table where helpful:
+A RACI table can clarify delivery roles:
 
 - **Responsible:** does the work.
 - **Accountable:** owns the result and approves.
@@ -129,7 +129,7 @@ Indigenous governments and communities are rights-holders, not merely another st
 
 ## Networking
 
-Networking is purposeful relationship building, not collection of contacts.
+Networking builds working relationships. Collecting contacts alone is not enough.
 
 ### Effective cycle
 
@@ -142,7 +142,7 @@ Networking is purposeful relationship building, not collection of contacts.
 7. Provide value before asking for repeated help.
 8. Maintain the relationship over time.
 
-Useful networks include:
+Build connections across:
 
 - local business and sector networks;
 - provincial and territorial associations;
@@ -171,7 +171,7 @@ An EDO needs:
 - digital, cybersecurity, and AI literacy; and
 - sector-specific knowledge.
 
-Use a personal development plan:
+A personal development plan should record:
 
 | Capability | Current level | Evidence | Gap | Action | Deadline |
 |---|---|---|---|---|---|
@@ -197,7 +197,7 @@ Possible participants and roles:
 - utilities and transportation providers: capacity and network changes;
 - educational institutions and workforce partners: talent and programming.
 
-A strong answer also explains engagement method, decision authority, conflict management, phasing, business-disruption mitigation, financing, measures, and communication.
+The response should also explain engagement method, decision authority, conflict management, phasing, business-disruption mitigation, financing, measures, and communication.
 
 ## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 

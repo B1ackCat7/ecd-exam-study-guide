@@ -59,7 +59,7 @@ There is no universally correct model. Select a structure based on goals, scale,
 7. Provide adequate funding, a clear mandate, strategy, and terms of reference.
 8. Do not consume staff capacity that should serve clients and deliver the strategy.
 
-Modern application also requires accessibility, inclusion, Indigenous rights and relationships, risk oversight, data governance, and transparent conflict-of-interest controls.
+Sound governance also covers accessibility, inclusion, Indigenous rights and relationships, risk oversight, data governance, and transparent conflict-of-interest controls.
 
 ## Board, council, and staff roles
 
@@ -128,7 +128,7 @@ Also ask whether the measure is attributable, timely, comparable, affordable to 
 
 ## Performance framework
 
-Use a balanced set:
+Track measures across four levels:
 
 ### Activity and service
 
@@ -194,7 +194,7 @@ Use confidence levels or ranges rather than claiming every announced job as full
 
 ## Governance answer pattern
 
-For a governance scenario:
+Structure a governance response in this order:
 
 1. diagnose the mandate and accountability problem;
 2. map authorities and stakeholders;

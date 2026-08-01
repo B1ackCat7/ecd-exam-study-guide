@@ -37,7 +37,7 @@ Use the certification and exam-preparation pages as starting points, not as an i
 
 The multiple-choice section awards 0.5 mark per question, which implies 24 questions. The short-answer section gives 8 marks to each of eight answers. Point form is permitted for the short answers, but the response must still answer every part of the prompt.
 
-For online writing, EDAC currently lists a webcam-enabled computer, a modern browser, stable internet for the full five hours, screen sharing, and Zoom. Confirm the technical setup before the exam because public EDAC pages are not fully synchronized.
+For the online written portion, EDAC currently lists a webcam-enabled computer, a modern browser, stable internet for the full five hours, screen sharing, and Zoom. Confirm the technical setup before the exam because EDAC's public pages are not fully synchronized.
 
 ## Published competency areas
 
@@ -92,14 +92,14 @@ Read the current policy before writing. Confirm current fees and administrative 
 
 ## The exam is testing applied judgment
 
-The structure rewards four different abilities:
+Each part of the exam tests a different ability:
 
 - **Recall and discrimination:** recognize the best concept or process quickly.
 - **Analysis:** connect a contemporary issue to local sectors, firms, workers, public finances, and community well-being.
 - **Professional application:** propose a realistic process with stakeholders, resources, risks, and measures.
 - **Communication:** explain the local economy clearly, accurately, and ethically under time pressure.
 
-Knowledge matters, but a list of definitions is rarely enough. The most reliable answer pattern is:
+Knowledge matters, but a list of definitions is rarely enough. A dependable way to structure a response is:
 
 > Context -> objective -> evidence -> stakeholders -> options -> recommendation -> implementation -> measures -> risks and contingency
 

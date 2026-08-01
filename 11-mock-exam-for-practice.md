@@ -2,7 +2,7 @@
 
 > **Guide navigation:** [← Previous: Calculations and formulas](10-calculations-and-formulas.md) · [Cover and contents](README.md) · [Next: Oral exam preparation →](12-oral-exam-preparation.md)
 
-This chapter brings the written practice material together as one purpose-built mock exam. Its questions were developed from the topics, frameworks, terminology, and public references used throughout this study guide, with the publicly described examination format used as an organizing model.
+This chapter contains a complete written practice exam. Its questions draw on the topics, frameworks, terminology, and public references used throughout the guide, organized around the publicly described examination format.
 
 ## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
@@ -25,7 +25,7 @@ This chapter brings the written practice material together as one purpose-built 
 
 ## <img src="assets/icons/route.svg" alt="" width="22" height="22"> How to use this file
 
-Use this chapter as a complete written simulation or select one part for a shorter study session. Confirm the current timing, marks, and requirements with EDAC before setting up a full mock exam.
+Complete the whole chapter as a written simulation, or choose one part for a shorter study session. Confirm the current timing, marks, and requirements with EDAC before setting up a full mock exam.
 
 For a full practice session:
 
@@ -60,7 +60,7 @@ For each set:
 2. A public dashboard shows that employment in a target sector grew sharply. Statistics Canada later revises the underlying series and the apparent increase becomes much smaller. Prepare a response that addresses correction, communication with decision-makers, documentation, and future quality control.
 3. A newly appointed economic-development board asks staff to promise a project approval that legally belongs to another public authority. Explain how an economic developer should clarify roles, preserve momentum, and offer useful support without exceeding the organization's mandate.
 
-Strong responses should address facts, authority, conflicts, public interest, privacy, evidence quality, documentation, corrective action, and relationship management.
+Review the response for facts, authority, conflicts, public interest, privacy, evidence quality, documentation, corrective action, and relationship management.
 
 #### Mock set B: Business intelligence and response
 
@@ -68,7 +68,7 @@ Strong responses should address facts, authority, conflicts, public interest, pr
 2. Several firms report unrelated symptoms - missed shipments, high turnover, and delayed permits - but staff suspect a shared infrastructure constraint. Describe how you would test the hypothesis, triage firm-specific needs, and convert the findings into a coordinated response.
 3. A business survey receives strong participation from large firms but very little response from small, home-based, or newcomer-owned businesses. Explain what can and cannot be concluded, how the evidence gap should be addressed, and how results should be reported.
 
-Strong responses should cover purpose, sampling, accessibility, consent, confidentiality, issue triage, partner referrals, systemic analysis, feedback, implementation, and measures.
+Review the response for purpose, sampling, accessibility, consent, confidentiality, issue triage, partner referrals, systemic analysis, feedback, implementation, and measures.
 
 #### Mock set C: Investment readiness and market change
 
@@ -76,7 +76,7 @@ Strong responses should cover purpose, sampling, accessibility, consent, confide
 2. An international prospect requests verified information on power capacity, permitting, labour, incentives, and available sites within seventy-two hours. Some information is incomplete and the project's decision process is unclear. Describe how you would qualify the opportunity and organize a credible response.
 3. A cluster of small exporters faces simultaneous exchange-rate volatility, changing border requirements, and rising freight costs. Build a scenario-based response that distinguishes immediate firm assistance from longer-term market and supply-chain development.
 
-Strong responses should include strategic fit, verified data, lead qualification, response ownership, confidentiality, intergovernmental coordination, limitations, timelines, risk, and aftercare.
+Review the response for strategic fit, verified data, lead qualification, response ownership, confidentiality, intergovernmental coordination, limitations, timelines, risk, and aftercare.
 
 #### Mock set D: Governance and measurement
 
@@ -84,7 +84,7 @@ Strong responses should include strategic fit, verified data, lead qualification
 2. A two-year business accelerator reports workshops delivered, attendance, and social-media reach, but the board wants evidence of business value. Develop a logic model and a practical evaluation plan without claiming results the program cannot attribute.
 3. A sudden budget reduction requires an economic-development team to pause or redesign several initiatives. Develop a transparent prioritization process that considers mandate, evidence, equity, contractual obligations, opportunity cost, and community impact.
 
-Strong responses should cover mandate, representation, decision rights, service standards, funding, conflicts, data ownership, outputs, outcomes, attribution, review cycles, and public reporting.
+Review the response for mandate, representation, decision rights, service standards, funding, conflicts, data ownership, outputs, outcomes, attribution, review cycles, and public reporting.
 
 #### Mock set E: Partnerships and program delivery
 
@@ -92,7 +92,7 @@ Strong responses should cover mandate, representation, decision rights, service 
 2. A proposed mentoring initiative would match volunteer executives with early-stage businesses. Design the operating model, including participant selection, boundaries, conflicts, accessibility, safeguarding, feedback, and exit provisions.
 3. A funding partner asks staff to announce an ambitious job target before the delivery partners have validated it. Explain how you would respond, revise the target-setting process, and preserve the partnership.
 
-Strong responses should address strategic fit, rights and jurisdiction, governance, written agreements, roles, resources, risk allocation, privacy, conflicts, dispute resolution, exit, and shared outcomes.
+Review the response for strategic fit, rights and jurisdiction, governance, written agreements, roles, resources, risk allocation, privacy, conflicts, dispute resolution, exit, and shared outcomes.
 
 #### Mock set F: Communication and engagement
 
@@ -100,7 +100,7 @@ Strong responses should address strategic fit, rights and jurisdiction, governan
 2. A proposed high-energy-use facility may create investment and tax benefits but raises questions about power, water, land, and community priorities. Design an engagement process that clearly separates information, consultation, technical review, and formal decision authority.
 3. A reporter asks about an employer restructuring before the firm has made a public announcement. Prepare the organization's response and a subsequent media plan for the period after verified information becomes public.
 
-Strong responses should include purpose, audiences, accessible channels, verified messages, spokesperson roles, privacy, stakeholder and rights-holder participation, influence on decisions, feedback, timing, and evaluation.
+Review the response for purpose, audiences, accessible channels, verified messages, spokesperson roles, privacy, stakeholder and rights-holder participation, influence on decisions, feedback, timing, and evaluation.
 
 #### Mock set G: Planning and location readiness
 
@@ -108,7 +108,7 @@ Strong responses should include purpose, audiences, accessible channels, verifie
 2. An economic strategy was written before major changes in population, commuting, technology, and climate risk. Design an efficient strategy refresh that uses new evidence without discarding useful prior work.
 3. A site-selection request compares three communities. Your community performs well on several factors but has a material weakness in one operating requirement. Explain how you would present the evidence, test possible mitigation, and advise local decision-makers.
 
-Strong responses should include evidence, planning authority, rights and constraints, verified readiness, alternatives, transparent marketing, interdepartmental roles, implementation, risk, and monitoring.
+Review the response for evidence, planning authority, rights and constraints, verified readiness, alternatives, transparent marketing, interdepartmental roles, implementation, risk, and monitoring.
 
 #### Mock set H: Finance and impact
 
@@ -116,7 +116,7 @@ Strong responses should include evidence, planning authority, rights and constra
 2. A proposed industrial-park expansion requires municipal servicing, land acquisition, and a long construction period. Develop an impact-analysis framework that separates financial feasibility, fiscal effects, economic effects, environmental and social considerations, distribution, uncertainty, and lifecycle risk.
 3. A publicly funded entrepreneurship program requests a substantial renewal after its pilot year. Design the budget review and recommendation process, including relevant costs, performance evidence, alternatives, risk, approval authority, and reporting.
 
-Strong responses should cover financial statements, cash and liquidity, relevant ratios, assumptions, qualified referrals, incremental effects, scenarios, distribution, lifecycle costs, uncertainty, decision criteria, and monitoring.
+Review the response for financial statements, cash and liquidity, relevant ratios, assumptions, qualified referrals, incremental effects, scenarios, distribution, lifecycle costs, uncertainty, decision criteria, and monitoring.
 
 ### Contemporary essay questions
 
@@ -159,7 +159,7 @@ Answers:
 
 ### Self-scoring rubric for an 8-mark practice answer
 
-This is an independently created practice rubric:
+Score the practice exam with this independently created rubric:
 
 | Criterion | Marks |
 |---|---:|
@@ -172,7 +172,7 @@ This is an independently created practice rubric:
 | Defines outputs, outcomes, and follow-up | 1 |
 | **Total** | **8** |
 
-After scoring, rewrite only the weakest section. This is faster than rewriting every answer in full.
+After scoring, rewrite only the weakest section so the review stays focused.
 
 ## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 

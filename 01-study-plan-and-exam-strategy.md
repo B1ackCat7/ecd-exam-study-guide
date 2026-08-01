@@ -23,7 +23,7 @@
 
 ## Build an evidence bank first
 
-Many answers should draw on professional experience. Prepare a private evidence bank that is not committed to a public repository.
+Exam answers are stronger when they draw on professional experience. Prepare a private evidence bank, and do not commit it to a public repository.
 
 For each example, record:
 
@@ -123,7 +123,7 @@ Spaced recall and application are more useful than repeatedly rereading the same
 - 50 minutes: write.
 - 7 minutes: check completeness, logic, and clarity.
 
-A useful structure is:
+Build the essay in this order:
 
 1. event and thesis;
 2. local exposure and baseline;

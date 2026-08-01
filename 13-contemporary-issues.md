@@ -2,7 +2,7 @@
 
 > **Guide navigation:** [← Previous: Oral exam preparation](12-oral-exam-preparation.md) · [Cover and contents](README.md) · [Next: Glossary →](14-glossary.md)
 
-The contemporary essay should demonstrate that you can translate a major event into local economic impacts and a credible response. The analytical questions in this chapter were prepared from the public issues and study frameworks covered in this guide.
+The contemporary essay should show how a major event could affect the local economy and how an EDO could respond. The analytical questions apply the public issues and study frameworks covered in this guide.
 
 ## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
