@@ -44,7 +44,7 @@ Always confirm the accounting basis, period, definitions, and source data before
 
 ### Income statement
 
-Shows revenue, expenses, and profit over a period.
+The income statement shows revenue, expenses, and profit over a period.
 
 Basic relationship:
 
@@ -62,7 +62,7 @@ Principal repayment is not an income-statement expense; interest generally is.
 
 ### Balance sheet
 
-Shows financial position at one date.
+The balance sheet shows financial position at one date.
 
 > Assets = Liabilities + Equity
 
@@ -85,7 +85,7 @@ It answers:
 
 ### Cash-flow statement
 
-Shows cash received and paid through:
+The cash-flow statement shows cash received and paid through:
 
 - operating activities;
 - investing activities;
@@ -298,7 +298,7 @@ Do not treat these as interchangeable.
 
 ## Finance answer pattern
 
-For a financial or business case:
+Structure a financial or business case in this order:
 
 1. clarify the decision and information required;
 2. review the business model and three statements;

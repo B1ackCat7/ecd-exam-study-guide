@@ -25,7 +25,7 @@
 
 ## Communication plan
 
-Good communication is planned. A practical plan includes:
+Plan the communication before choosing channels. Cover:
 
 1. **Situation:** decision, issue, context, evidence, and sensitivities.
 2. **Objectives:** what the audience should know, feel, or do.
@@ -159,7 +159,7 @@ The goal is audience understanding and retention, not display of every fact coll
 
 ## Public engagement
 
-Information is not the same as engagement.
+Providing information alone does not create engagement.
 
 ### Levels
 
@@ -208,7 +208,7 @@ Social media complements a maintained website and direct relationships. It does 
 
 ## Communications answer pattern
 
-For a communications scenario:
+Build a communications response around:
 
 1. identify the issue and authority;
 2. establish objective and audiences;

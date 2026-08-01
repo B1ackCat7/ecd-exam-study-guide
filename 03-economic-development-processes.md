@@ -25,7 +25,7 @@
 
 ## Portfolio approach
 
-A balanced economic development portfolio usually includes:
+Most communities need a mix of:
 
 - retention and expansion of existing firms;
 - entrepreneurship and small business support;

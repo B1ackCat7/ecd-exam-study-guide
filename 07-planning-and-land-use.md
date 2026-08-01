@@ -200,7 +200,7 @@ Do not count gross benefits without costs, displacement, leakage, timing, and ri
 
 ## Downtown redevelopment
 
-A strong approach combines:
+Assess the project through:
 
 - business and property-owner intelligence;
 - market and leakage analysis;

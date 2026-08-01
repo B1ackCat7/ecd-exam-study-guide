@@ -2,9 +2,9 @@
 
 > **Guide navigation:** [← Previous: License and attribution](LICENSE.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)
 
-I'm Xiao, and I've been asked by many people to share my experience preparing for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) exam, so I decided to put together this open, independently created study guide. I hope it helps my fellow Ec.D. candidates feel a little more prepared and confident as they work toward the designation.
+I'm Xiao. After several people asked how I prepared for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) exam, I put together this open, independently created study guide. I hope it helps fellow candidates approach the designation with more confidence.
 
-Designed for Canadian economic development professionals, the guide organizes exam preparation into short, reusable Markdown chapters. It emphasizes understanding, judgment, and application to Canadian communities rather than memorizing model answers.
+The guide is written for Canadian economic development professionals. Its short Markdown chapters focus on understanding, judgment, and application to Canadian communities rather than memorized model answers.
 
 > This resource is independently created. It is not an official EDAC publication and is not endorsed by EDAC.
 
@@ -54,11 +54,11 @@ The study guide includes:
 
 ## <img src="assets/icons/file-text.svg" alt="" width="22" height="22"> Print edition
 
-Prefer everything in one document? Download the [print-ready PDF](output/pdf/ecd-exam-study-guide.pdf), or use the [single-file LaTeX source](print-edition/ecd-exam-study-guide.tex) to adapt the typography, cover, or page layout.
+The [print-ready PDF](output/pdf/ecd-exam-study-guide.pdf) collects the full guide in one document. The [single-file LaTeX source](print-edition/ecd-exam-study-guide.tex) is also available if you want to adapt the typography, cover, or page layout.
 
 ## <img src="assets/icons/lightbulb.svg" alt="" width="22" height="22"> What a strong exam answer usually does
 
-A strong answer:
+A well-developed exam answer:
 
 - identifies the objective and the local context;
 - uses a logical process rather than an isolated tactic;
@@ -83,7 +83,7 @@ A strong answer:
 
 Each substantive chapter ends with a **Learn more** section that connects its concepts to relevant public sources. The [glossary](14-glossary.md) pairs every term with its definition and public sources, while [15-public-sources-and-disclaimer.md](15-public-sources-and-disclaimer.md) collects official examination, data, and contemporary-issue sources.
 
-Definitions in this guide are plain-language study syntheses rather than quotations. Where legitimate professional conventions differ—especially in financial ratios, SMART wording, pipeline stages, planning terminology, and evaluation language—the guide identifies the convention or asks the reader to state it explicitly.
+Definitions in this guide are plain-language study syntheses rather than quotations. When professional conventions differ, especially in financial ratios, SMART wording, pipeline stages, planning terminology, and evaluation language, the guide identifies the convention or asks the reader to state it explicitly.
 
 ## <img src="assets/icons/info.svg" alt="" width="22" height="22"> Current exam information and public sources
 
@@ -91,7 +91,7 @@ The online requirements were checked on July 25, 2026. Candidates should confirm
 
 ## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance acknowledgment
 
-Xiao prepared the underlying study notes and directed the guide's scope, substance, and final editorial decisions. OpenAI's Codex, using the GPT-5.6 model, assisted with synthesizing the notes into a public study guide, conducting additional research using public sources, editing and formatting the Markdown and LaTeX files, and preparing the PDF edition.
+Xiao prepared the underlying study notes and made the final decisions about the guide's scope, content, and wording. OpenAI's Codex, using the GPT-5.6 model, helped turn those notes into a public study guide, research additional public sources, edit and format the Markdown and LaTeX files, and prepare the PDF edition.
 
 AI-assisted content can contain errors or omissions. Xiao reviewed the guide and takes responsibility for its published content. Readers should continue to verify examination requirements and substantive information with EDAC and the cited public sources.
 

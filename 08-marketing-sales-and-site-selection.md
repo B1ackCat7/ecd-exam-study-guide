@@ -83,7 +83,7 @@ A community profile should allow an investor to conduct a first-stage comparison
 
 ### Data standards
 
-Every important figure should have:
+For each important figure, record:
 
 - definition;
 - geography;
@@ -112,11 +112,11 @@ Score possible sectors or business functions on:
 - resilience and diversification;
 - realistic competition and project pipeline.
 
-Choose a small number of defensible targets. "Technology" is usually too broad; a specific business function and subsector are more actionable.
+Choose a small number of defensible targets. "Technology" is usually too broad; a specific business function and subsector give the program a clearer focus.
 
 ### Value proposition
 
-A value proposition answers:
+A value proposition should answer:
 
 - For which target?
 - What business need?
