@@ -91,17 +91,17 @@ The online requirements were checked on July 25, 2026. Candidates should confirm
 
 ## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance acknowledgment
 
-Xiao prepared the underlying study notes and made the final decisions about the guide's scope, content, and wording. OpenAI's Codex, using the GPT-5.6 model, helped turn those notes into a public study guide, research additional public sources, edit and format the Markdown and LaTeX files, and prepare the PDF edition.
+I prepared the underlying study notes and made the final decisions about the guide's scope, content, and wording. OpenAI's Codex, using the GPT-5.6 model, helped me turn those notes into a public study guide, research additional public sources, edit and format the Markdown and LaTeX files, and prepare the PDF edition.
 
-AI-assisted content can contain errors or omissions. Xiao reviewed the guide and takes responsibility for its published content. Readers should continue to verify examination requirements and substantive information with EDAC and the cited public sources.
+AI-assisted content can contain errors or omissions. I reviewed the guide and take responsibility for its published content. Readers should continue to verify examination requirements and substantive information with EDAC and the cited public sources.
 
 ## <img src="assets/icons/user-round.svg" alt="" width="22" height="22"> About the author and feedback
 
-This guide was created by [Xiao](https://www.linkedin.com/in/xxiao27/), who publishes projects on GitHub as [B1ackCat7](https://github.com/B1ackCat7). Constructive feedback, corrections, comments, and professional connections are welcome. The easiest way to reach Xiao is through [LinkedIn](https://www.linkedin.com/in/xxiao27/).
+I'm [Xiao](https://www.linkedin.com/in/xxiao27/). I created this guide and publish projects on GitHub as [B1ackCat7](https://github.com/B1ackCat7). I welcome constructive feedback, corrections, comments, and professional connections. The easiest way to reach me is through [LinkedIn](https://www.linkedin.com/in/xxiao27/).
 
-## Contributing
+## <img src="assets/icons/workflow.svg" alt="" width="22" height="22"> Contributing
 
-Corrections that improve accuracy, Canadian relevance, accessibility, or source quality are welcome through GitHub or [LinkedIn](https://www.linkedin.com/in/xxiao27/). Contributions must be original, respect examination integrity and copyright, and contain no confidential or personal information. Unless stated otherwise, contributions accepted into this repository are published under the same license as the guide.
+I welcome corrections that improve accuracy, Canadian relevance, accessibility, or source quality through GitHub or [LinkedIn](https://www.linkedin.com/in/xxiao27/). Contributions must be original, respect examination integrity and copyright, and contain no confidential or personal information. Unless stated otherwise, I publish accepted contributions under the same license as the guide.
 
 ## <img src="assets/icons/badge-check.svg" alt="" width="22" height="22"> License and attribution
 
