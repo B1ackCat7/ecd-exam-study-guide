@@ -22,7 +22,7 @@ The guide is written for Canadian economic development professionals. Its short 
 - [Contributing](#contributing)
 - [License and attribution](#license-and-attribution)
 
-## What this Ec.D. exam guide covers
+## <img src="assets/icons/book-open.svg" alt="" width="22" height="22"> What this Ec.D. exam guide covers
 
 The study guide includes:
 
