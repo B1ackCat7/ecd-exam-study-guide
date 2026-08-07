@@ -1,4 +1,4 @@
-# Icon System
+# <img src="sparkles.svg" alt="" width="30" height="30"> Icon System
 
 > **Guide navigation:** [← Previous: License and attribution](../../LICENSE.md) · [Cover and contents](../../README.md) · [Next: Exam overview →](../../00-exam-overview.md)
 
@@ -6,11 +6,11 @@ This guide uses a curated subset of [Lucide](https://lucide.dev/) icons for chap
 
 ## Design approach
 
-- Chapter icons appear only beside chapter titles.
-- Recurring icons identify navigation, further reading, cautions, licensing, verification, AI assistance, and contact information.
+- Every public page title uses a 30-pixel decorative icon.
+- Landing-page sections and recurring wayfinding headings use 22-pixel icons for navigation, further reading, cautions, licensing, verification, AI assistance, and contact information. Ordinary chapter content headings remain text-only.
 - Icons supplement adjacent text and do not replace labels, so meaning remains clear to readers and assistive technology.
 - SVG files are stored locally for reliable GitHub rendering. Matching PNG files in `print-edition/icons/` are used by the LaTeX edition.
-- The icon colour matches the guide's moss-green accent.
+- The icon colour uses an EDAC-inspired blue accent (`#167BB9`) drawn from the Ec.D. badge palette.
 
 ## Chapter map
 
