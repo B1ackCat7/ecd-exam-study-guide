@@ -98,7 +98,7 @@ Consider:
 - uneven adoption between large and small firms;
 - local innovation and supplier opportunities.
 
-An EDO response could combine awareness, assessment, training, demonstration projects, trusted advisors, financing, and outcome measurement.
+An EDO response could combine awareness, assessment, training, demonstration projects, trusted advisers, financing, and outcome measurement.
 
 ### Climate adaptation and economic resilience
 

@@ -1,6 +1,6 @@
 # <img src="sparkles.svg" alt="" width="30" height="30"> Icon System
 
-> **Guide navigation:** [← Previous: License and attribution](../../LICENSE.md) · [Cover and contents](../../README.md) · [Next: Exam overview →](../../00-exam-overview.md)
+> **Guide navigation:** [← Previous: Licence and attribution](../../LICENSE.md) · [Cover and contents](../../README.md) · [Next: Exam overview →](../../00-exam-overview.md)
 
 This guide uses a curated subset of [Lucide](https://lucide.dev/) icons for chapter identification and recurring wayfinding cues.
 
@@ -35,10 +35,10 @@ This guide uses a curated subset of [Lucide](https://lucide.dev/) icons for chap
 | `15-public-sources-and-disclaimer.md` | Library |
 | `LICENSE.md` | Badge check |
 
-## License
+## Licence
 
 Lucide is released under the ISC License. Some Lucide icons are derived from Feather Icons and retain the MIT License notice included by Lucide. See [LUCIDE-LICENSE.txt](LUCIDE-LICENSE.txt) and the repository's [licensing notice](../../LICENSE.md#lucide-icon-assets).
 
 ---
 
-> **Guide navigation:** [← Previous: License and attribution](../../LICENSE.md) · [Cover and contents](../../README.md) · [Next: Exam overview →](../../00-exam-overview.md)
+> **Guide navigation:** [← Previous: Licence and attribution](../../LICENSE.md) · [Cover and contents](../../README.md) · [Next: Exam overview →](../../00-exam-overview.md)

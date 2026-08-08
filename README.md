@@ -1,6 +1,6 @@
 # <img src="assets/icons/book-open.svg" alt="" width="30" height="30"> EDAC Ec.D. Exam Study Guide
 
-> **Guide navigation:** [← Previous: License and attribution](LICENSE.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)
+> **Guide navigation:** [← Previous: Licence and attribution](LICENSE.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)
 
 I'm Xiao. After several people asked how I prepared for the Economic Developers Association of Canada (EDAC) Certified Economic Developer (Ec.D.) exam, I put together this open, independently created study guide. I hope it helps fellow candidates approach the designation with more confidence.
 
@@ -17,10 +17,10 @@ The guide is written for Canadian economic development professionals. Its short 
 - [Important limits](#important-limits)
 - [Learn more and references](#learn-more-and-references)
 - [Current exam information and public sources](#current-exam-information-and-public-sources)
-- [AI assistance acknowledgment](#ai-assistance-acknowledgment)
+- [AI assistance acknowledgement](#ai-assistance-acknowledgement)
 - [About the author and feedback](#about-the-author-and-feedback)
 - [Contributing](#contributing)
-- [License and attribution](#license-and-attribution)
+- [Licence and attribution](#licence-and-attribution)
 
 ## <img src="assets/icons/book-open.svg" alt="" width="22" height="22"> What this Ec.D. exam guide covers
 
@@ -89,7 +89,7 @@ Definitions in this guide are plain-language study syntheses rather than quotati
 
 The online requirements were checked on July 25, 2026. Candidates should confirm current eligibility and examination rules through EDAC's [Ec.D. Designation](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation](https://exam.edac.ca/exam-prep/) pages. See the [public sources and disclaimer](15-public-sources-and-disclaimer.md) for detailed references, interpretation notes, and limitations.
 
-## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance acknowledgment
+## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance acknowledgement
 
 I prepared the underlying study notes and made the final decisions about the guide's scope, content, and wording. OpenAI's Codex, using the GPT-5.6 model, helped me turn those notes into a public study guide, research additional public sources, edit and format the Markdown and LaTeX files, and prepare the PDF edition.
 
@@ -101,20 +101,20 @@ I'm [Xiao](https://www.linkedin.com/in/xxiao27/). I created this guide and publi
 
 ## <img src="assets/icons/workflow.svg" alt="" width="22" height="22"> Contributing
 
-I welcome corrections that improve accuracy, Canadian relevance, accessibility, or source quality through GitHub or [LinkedIn](https://www.linkedin.com/in/xxiao27/). Contributions must be original, respect examination integrity and copyright, and contain no confidential or personal information. Unless stated otherwise, I publish accepted contributions under the same license as the guide.
+I welcome corrections that improve accuracy, Canadian relevance, accessibility, or source quality through GitHub or [LinkedIn](https://www.linkedin.com/in/xxiao27/). Contributions must be original, respect examination integrity and copyright, and contain no confidential or personal information. Unless stated otherwise, I publish accepted contributions under the same licence as the guide.
 
-## <img src="assets/icons/badge-check.svg" alt="" width="22" height="22"> License and attribution
+## <img src="assets/icons/badge-check.svg" alt="" width="22" height="22"> Licence and attribution
 
 Copyright © 2026 [Xiao](https://www.linkedin.com/in/xxiao27/).
 
-This guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). You may share and adapt the guide for any purpose, including commercially, provided you give appropriate credit, link to the license, and indicate whether changes were made.
+This guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). You may share and adapt the guide for any purpose, including commercially, provided you give appropriate credit, link to the licence, and indicate whether changes were made.
 
 Suggested attribution:
 
 > *EDAC Ec.D. Exam Study Guide* by [Xiao](https://www.linkedin.com/in/xxiao27/), published on GitHub by [B1ackCat7](https://github.com/B1ackCat7) and licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
-See [LICENSE.md](LICENSE.md) for the full repository licensing notice. The license applies only to original content in this repository; third-party names, marks, linked resources, and quoted or otherwise separately identified material remain subject to their respective rights.
+See [LICENSE.md](LICENSE.md) for the full repository licensing notice. The licence applies only to original content in this repository; third-party names, marks, linked resources, and quoted or otherwise separately identified material remain subject to their respective rights.
 
 ---
 
-> **Guide navigation:** [← Previous: License and attribution](LICENSE.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)
+> **Guide navigation:** [← Previous: Licence and attribution](LICENSE.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)

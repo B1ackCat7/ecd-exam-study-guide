@@ -56,11 +56,11 @@ For each set:
 
 #### Mock set A: Professional judgment and evidence
 
-1. A fictional regional development office is evaluating a supplier program. Midway through the review, an officer learns that a close relative has joined one applicant's advisory board. Explain the immediate steps, the disclosure and recusal process, and how the office should protect both fairness and confidentiality.
+1. A fictional regional development office is evaluating a supplier-development pilot that has reached only half its participation target. Senior leaders want to renew it based on several positive testimonials. Explain how the officer should assess the evidence, distinguish outputs from outcomes, identify data limitations, and recommend whether to continue, modify, or end the program.
 2. A public dashboard shows that employment in a target sector grew sharply. Statistics Canada later revises the underlying series and the apparent increase becomes much smaller. Prepare a response that addresses correction, communication with decision-makers, documentation, and future quality control.
 3. A newly appointed economic-development board asks staff to promise a project approval that legally belongs to another public authority. Explain how an economic developer should clarify roles, preserve momentum, and offer useful support without exceeding the organization's mandate.
 
-Review the response for facts, authority, conflicts, public interest, privacy, evidence quality, documentation, corrective action, and relationship management.
+Review the response for facts, authority, assumptions, limitations, public interest, evidence quality, documentation, corrective action, and relationship management.
 
 #### Mock set B: Business intelligence and response
 
@@ -112,7 +112,7 @@ Review the response for evidence, planning authority, rights and constraints, ve
 
 #### Mock set H: Finance and impact
 
-1. A growing fictional manufacturer reports higher sales and positive net income but repeatedly uses short-term borrowing to meet payroll. Explain which financial information and ratios you would review, the limits of the EDO's role, and when a qualified advisor is needed.
+1. A growing fictional manufacturer reports higher sales and positive net income but repeatedly uses short-term borrowing to meet payroll. Explain which financial information and ratios you would review, the limits of the EDO's role, and when a qualified adviser is needed.
 2. A proposed industrial-park expansion requires municipal servicing, land acquisition, and a long construction period. Develop an impact-analysis framework that separates financial feasibility, fiscal effects, economic effects, environmental and social considerations, distribution, uncertainty, and lifecycle risk.
 3. A publicly funded entrepreneurship program requests a substantial renewal after its pilot year. Design the budget review and recommendation process, including relevant costs, performance evidence, alternatives, risk, approval authority, and reporting.
 

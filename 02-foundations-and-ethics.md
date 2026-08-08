@@ -29,7 +29,7 @@ No single program works everywhere. The appropriate strategy depends on local as
 An economic developer may act as:
 
 - analyst and researcher;
-- advisor to public decision-makers;
+- adviser to public decision-makers;
 - business navigator and problem solver;
 - facilitator and consensus builder;
 - connector among firms, governments, institutions, and community organizations;

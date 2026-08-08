@@ -1,6 +1,6 @@
 # <img src="assets/icons/library.svg" alt="" width="30" height="30"> Public Sources and Disclaimer
 
-> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: License and attribution →](LICENSE.md)
+> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: Licence and attribution →](LICENSE.md)
 
 ## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
@@ -89,9 +89,9 @@ This guide was created by [Xiao](https://www.linkedin.com/in/xxiao27/), who publ
 
 This guide contains original educational explanations and purpose-built mock questions. It links to authoritative public sources, while EDAC retains rights in its publications, examination material, name, marks, and artwork.
 
-Copyright © 2026 [Xiao](https://www.linkedin.com/in/xxiao27/). The original content in this guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Readers may copy, redistribute, remix, transform, and build upon it for any purpose, including commercially, provided they give appropriate credit, link to the license, and indicate whether changes were made. See [LICENSE.md](LICENSE.md).
+Copyright © 2026 [Xiao](https://www.linkedin.com/in/xxiao27/). The original content in this guide is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (CC BY 4.0). Readers may copy, redistribute, remix, transform, and build upon it for any purpose, including commercially, provided they give appropriate credit, link to the licence, and indicate whether changes were made. See [LICENSE.md](LICENSE.md).
 
-The license does not grant rights in EDAC's name, marks, artwork, publications, examination material, or any third-party content linked or separately identified in this guide.
+The licence does not grant rights in EDAC's name, marks, artwork, publications, examination material, or any third-party content linked or separately identified in this guide.
 
 ## <img src="assets/icons/shield-alert.svg" alt="" width="22" height="22"> Disclaimer
 
@@ -105,4 +105,4 @@ This is an independently created educational resource and is not endorsed by EDA
 
 ---
 
-> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: License and attribution →](LICENSE.md)
+> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: Licence and attribution →](LICENSE.md)

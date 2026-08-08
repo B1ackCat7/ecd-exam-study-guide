@@ -29,7 +29,7 @@
 
 ## Why finance matters
 
-An EDO may not be the firm's accountant, lender, or investment advisor, but should be able to:
+An EDO may not be the firm's accountant, lender, or investment adviser, but should be able to:
 
 - understand the business model;
 - read basic statements;
