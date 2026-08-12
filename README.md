@@ -31,7 +31,7 @@ The study guide includes:
 - strategic planning, business retention and expansion (BR&E), investment attraction, partnerships, and networking;
 - communications, public engagement, land-use planning, marketing, sales, and site selection;
 - business finance, economic impact analysis, calculations, and formulas;
-- a purpose-built written mock exam and oral practice questions based on the study-guide topics and public exam format;
+- 24 original practice multiple-choice and true/false questions, plus a purpose-built written mock exam based on the study-guide topics;
 - Canadian economic development issues for contemporary-issue preparation; and
 - an 84-term glossary with public references for every definition.
 
@@ -49,8 +49,8 @@ The study guide includes:
    - [Marketing, sales, and site selection](08-marketing-sales-and-site-selection.md)
    - [Finance, business planning, and economic impact analysis](09-finance-business-planning-and-impact-analysis.md)
 4. Practise the quantitative material in [calculations and formulas](10-calculations-and-formulas.md).
-5. Use the [mock exam for practice](11-mock-exam-for-practice.md), [oral exam preparation](12-oral-exam-preparation.md), and [contemporary economic development issues](13-contemporary-issues.md) for timed practice.
-6. Use the [economic development glossary](14-glossary.md) for quick review and term-by-term authoritative references.
+5. Use the [mock exam for practice](11-mock-exam-for-practice.md) and [contemporary economic development issues](12-contemporary-issues.md) for timed practice.
+6. Use the [economic development glossary](13-glossary.md) for quick review and term-by-term authoritative references.
 
 ## <img src="assets/icons/file-text.svg" alt="" width="22" height="22"> Print edition
 
@@ -81,13 +81,13 @@ A well-developed exam answer:
 
 ## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more and references
 
-Each substantive chapter ends with a **Learn more** section that connects its concepts to relevant public sources. The [glossary](14-glossary.md) pairs every term with its definition and public sources, while [15-public-sources-and-disclaimer.md](15-public-sources-and-disclaimer.md) collects official examination, data, and contemporary-issue sources.
+Each substantive chapter ends with a **Learn more** section that connects its concepts to relevant public sources. The [glossary](13-glossary.md) pairs every term with its definition and public sources, while [14-public-sources-and-disclaimer.md](14-public-sources-and-disclaimer.md) collects official examination, data, and contemporary-issue sources.
 
 Definitions in this guide are plain-language study syntheses rather than quotations. When professional conventions differ, especially in financial ratios, SMART wording, pipeline stages, planning terminology, and evaluation language, the guide identifies the convention or asks the reader to state it explicitly.
 
 ## <img src="assets/icons/info.svg" alt="" width="22" height="22"> Current exam information and public sources
 
-The online requirements were checked on July 25, 2026. Candidates should confirm current eligibility and examination rules through EDAC's [Ec.D. Designation](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation](https://exam.edac.ca/exam-prep/) pages. See the [public sources and disclaimer](15-public-sources-and-disclaimer.md) for detailed references, interpretation notes, and limitations.
+The online requirements were checked on August 12, 2026. Candidates should confirm current eligibility and examination rules through EDAC's [Ec.D. Designation](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation](https://exam.edac.ca/exam-prep/) pages. See the [public sources and disclaimer](14-public-sources-and-disclaimer.md) for detailed references, interpretation notes, and limitations.
 
 ## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance acknowledgement
 

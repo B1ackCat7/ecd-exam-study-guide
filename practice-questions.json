@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "type": "multiple-choice",
+    "topic": "Professional practice",
+    "question": "A councillor asks an economic development officer to announce an unverified major investment before the company has approved disclosure. What is the best response?",
+    "options": [
+      {"label": "A", "text": "Announce it immediately because elected officials set municipal priorities.", "feedback": "Direction from an elected official does not remove the duty to protect confidential information and verify authority to disclose."},
+      {"label": "B", "text": "Confirm the facts, confidentiality obligations, and approval to disclose before preparing any announcement.", "feedback": "Correct. This protects trust, accuracy, and the municipality while establishing who is authorized to communicate."},
+      {"label": "C", "text": "Give the information to one reporter on background so the story can be tested.", "feedback": "A selective leak can still breach confidentiality and undermine both the investor and the municipality."},
+      {"label": "D", "text": "Refuse to communicate about the project at any time.", "feedback": "A permanent refusal is unnecessary. Communication can proceed once the facts, timing, and authority to disclose are confirmed."}
+    ],
+    "answer": "B",
+    "explanation": "Economic developers should protect confidential information, verify facts, and coordinate authorized communication before a public announcement."
+  },
+  {
+    "id": 2,
+    "type": "multiple-choice",
+    "topic": "Business retention and expansion",
+    "question": "Which activity is most central to a business retention and expansion program?",
+    "options": [
+      {"label": "A", "text": "Purchasing untargeted advertising in national media.", "feedback": "Broad advertising may support awareness, but it does not provide the direct business intelligence at the heart of BR&E."},
+      {"label": "B", "text": "Conducting structured outreach to existing employers and coordinating responses to identified barriers.", "feedback": "Correct. BR&E combines trusted outreach, issue identification, follow-up, and aggregate intelligence for action."},
+      {"label": "C", "text": "Approving every expansion incentive requested by a local business.", "feedback": "BR&E requires consistent criteria and sound analysis; it is not an automatic approval process."},
+      {"label": "D", "text": "Replacing the municipality's planning approval process.", "feedback": "Economic development can help businesses navigate approvals but cannot replace the authority or responsibilities of planning staff."}
+    ],
+    "answer": "B",
+    "explanation": "A sound BR&E program builds relationships with existing firms, identifies opportunities and risks, and coordinates appropriate responses without promising outcomes outside the EDO's authority."
+  },
+  {
+    "id": 3,
+    "type": "multiple-choice",
+    "topic": "Performance measurement",
+    "question": "A program reports that staff completed 80 business visits. In a logic model, this figure is best classified as:",
+    "options": [
+      {"label": "A", "text": "an input", "feedback": "Inputs are resources such as staff time, funding, or data used to deliver the program."},
+      {"label": "B", "text": "an activity", "feedback": "The visits themselves are activities, but the count of completed visits is the immediate product of those activities."},
+      {"label": "C", "text": "an output", "feedback": "Correct. The number of visits is a direct, countable product of program activity."},
+      {"label": "D", "text": "a long-term outcome", "feedback": "An outcome would describe a change resulting from the work, such as resolved barriers, investment, or improved firm resilience."}
+    ],
+    "answer": "C",
+    "explanation": "Outputs count what a program directly delivers. Outcomes describe changes that follow, and should not be assumed from activity counts alone."
+  },
+  {
+    "id": 4,
+    "type": "multiple-choice",
+    "topic": "Performance measurement",
+    "question": "Which measure provides the strongest evidence that a workforce initiative improved participant employment outcomes?",
+    "options": [
+      {"label": "A", "text": "The number of social-media impressions generated.", "feedback": "Impressions measure promotional reach, not a change in participant employment."},
+      {"label": "B", "text": "The number of workshops delivered.", "feedback": "Workshop count is an output and does not show whether employment outcomes changed."},
+      {"label": "C", "text": "The share of participants employed after the program compared with a defined baseline and appropriate comparator.", "feedback": "Correct. This measures change and gives context for assessing whether the program contributed to it."},
+      {"label": "D", "text": "A testimonial selected by the program manager.", "feedback": "A testimonial can illustrate experience but is not representative evidence of program-level outcomes."}
+    ],
+    "answer": "C",
+    "explanation": "Outcome evidence is stronger when it specifies the population, timing, baseline, and a reasonable comparison rather than relying only on outputs or anecdotes."
+  },
+  {
+    "id": 5,
+    "type": "multiple-choice",
+    "topic": "Governance",
+    "question": "An arm's-length economic development corporation is most likely to maintain public accountability when it has:",
+    "options": [
+      {"label": "A", "text": "no written mandate so it can respond flexibly", "feedback": "Flexibility without a clear mandate creates ambiguity about authority, priorities, and accountability."},
+      {"label": "B", "text": "a clear mandate, delegated authorities, reporting requirements, and conflict-of-interest controls", "feedback": "Correct. These elements clarify roles while preserving appropriate oversight."},
+      {"label": "C", "text": "complete exemption from municipal policies and public reporting", "feedback": "Arm's-length delivery does not eliminate public accountability or applicable legal and policy obligations."},
+      {"label": "D", "text": "responsibility for approving its own municipal budget without oversight", "feedback": "Budget authority and oversight must be defined through lawful governance arrangements, not assumed by the corporation."}
+    ],
+    "answer": "B",
+    "explanation": "An arm's-length structure still needs a documented mandate, appropriate delegated authority, transparent reporting, and controls for ethical and financial stewardship."
+  },
+  {
+    "id": 6,
+    "type": "multiple-choice",
+    "topic": "Partnerships",
+    "question": "Before launching a regional investment-attraction partnership, the participating organizations should first clarify:",
+    "options": [
+      {"label": "A", "text": "objectives, roles, decision rights, resources, data handling, and success measures", "feedback": "Correct. These points reduce duplication and establish how partners will work and be accountable."},
+      {"label": "B", "text": "which partner will receive public credit for every lead", "feedback": "Credit can be addressed, but making it the first priority weakens the shared purpose and collaborative operating model."},
+      {"label": "C", "text": "that all municipal differences will be removed", "feedback": "Regional partners can align processes and messages without pretending that local mandates and conditions are identical."},
+      {"label": "D", "text": "that confidential prospect information will be circulated to every employee", "feedback": "Lead information should be governed by need-to-know access and agreed confidentiality rules."}
+    ],
+    "answer": "A",
+    "explanation": "Effective partnerships begin with shared objectives and an operating framework that covers authority, resources, information, accountability, and evaluation."
+  },
+  {
+    "id": 7,
+    "type": "multiple-choice",
+    "topic": "Communications",
+    "question": "During a plant-closure response, which communication approach is most appropriate?",
+    "options": [
+      {"label": "A", "text": "Speculate about the cause so the municipality appears informed.", "feedback": "Speculation can spread misinformation and damage trust with workers, the employer, and the public."},
+      {"label": "B", "text": "Use a designated spokesperson, separate confirmed facts from unknowns, show empathy, and state the next update time.", "feedback": "Correct. This provides accurate, humane, and predictable communication during uncertainty."},
+      {"label": "C", "text": "Avoid all communication until every long-term impact is known.", "feedback": "Silence can create an information vacuum. A factual holding statement can acknowledge the situation and explain next steps."},
+      {"label": "D", "text": "Publish personal details about affected workers to demonstrate impact.", "feedback": "Personal information should be protected; impacts can be communicated using authorized and appropriately aggregated information."}
+    ],
+    "answer": "B",
+    "explanation": "Crisis communication should be accurate, empathetic, coordinated, and transparent about uncertainty and the timing of further information."
+  },
+  {
+    "id": 8,
+    "type": "multiple-choice",
+    "topic": "Public engagement",
+    "question": "An open house attracts mostly established property owners. What is the best next step before treating the feedback as representative?",
+    "options": [
+      {"label": "A", "text": "Close engagement because an open invitation was provided.", "feedback": "An open invitation does not guarantee that affected groups had equal opportunity or ability to participate."},
+      {"label": "B", "text": "Weight every comment equally and claim it represents the whole community.", "feedback": "Equal treatment of comments does not correct participation gaps or make a self-selected group representative."},
+      {"label": "C", "text": "Identify missing groups and barriers, then add accessible and targeted ways for them to participate.", "feedback": "Correct. Deliberate outreach and accessible methods improve the breadth and usefulness of engagement."},
+      {"label": "D", "text": "Discard the open-house feedback entirely.", "feedback": "The feedback remains useful evidence, but its limitations should be documented and supplemented."}
+    ],
+    "answer": "C",
+    "explanation": "Representative engagement requires attention to who is missing, why they may be missing, and which additional methods can reduce participation barriers."
+  },
+  {
+    "id": 9,
+    "type": "multiple-choice",
+    "topic": "Strategic planning",
+    "question": "Which sequence best reflects a defensible strategic-planning process?",
+    "options": [
+      {"label": "A", "text": "Select projects, write a vision, collect data, then identify stakeholders.", "feedback": "Choosing projects before evidence, direction, and engagement risks solving the wrong problem."},
+      {"label": "B", "text": "Establish mandate, assess evidence and context, engage stakeholders, set priorities, build an action plan, implement, and evaluate.", "feedback": "Correct. This moves from purpose and evidence to choices, delivery, and learning."},
+      {"label": "C", "text": "Copy a neighbouring strategy, announce targets, and assign measures after implementation.", "feedback": "A strategy should reflect local evidence and define responsibilities and measures before implementation."},
+      {"label": "D", "text": "Start implementation, then seek approval if early results are positive.", "feedback": "Appropriate authority, resources, and accountability should be secured before implementation."}
+    ],
+    "answer": "B",
+    "explanation": "A credible strategy connects mandate, evidence, engagement, choices, resources, delivery, measurement, and adaptation."
+  },
+  {
+    "id": 10,
+    "type": "multiple-choice",
+    "topic": "Planning and land use",
+    "question": "A manufacturer asks the economic development officer to guarantee rezoning of a site. The officer should:",
+    "options": [
+      {"label": "A", "text": "provide the guarantee to keep the project moving", "feedback": "An EDO should not promise a decision that belongs to a statutory approval authority."},
+      {"label": "B", "text": "explain the approval process and risks, coordinate early review, and avoid promising the outcome", "feedback": "Correct. The EDO can facilitate accurate navigation while respecting planning authority and due process."},
+      {"label": "C", "text": "tell the company that planning considerations are irrelevant to investment attraction", "feedback": "Land-use conformity, servicing, environmental constraints, and approvals can be central to site feasibility."},
+      {"label": "D", "text": "submit the application without the company's authorization", "feedback": "The applicant controls its submission, and the EDO should not act beyond their authority or the company's instructions."}
+    ],
+    "answer": "B",
+    "explanation": "Economic development staff can convene reviewers and clarify process, but they must distinguish facilitation from statutory decision-making."
+  },
+  {
+    "id": 11,
+    "type": "multiple-choice",
+    "topic": "Investment attraction",
+    "question": "Which information is most useful when first qualifying an investment lead?",
+    "options": [
+      {"label": "A", "text": "The prospect's operating requirements, decision criteria, timeline, authority, and confidentiality needs.", "feedback": "Correct. These facts help determine fit, seriousness, next steps, and who should be involved."},
+      {"label": "B", "text": "Only the number of jobs mentioned in the initial inquiry.", "feedback": "Job count alone does not establish project fit, credibility, impacts, or feasibility."},
+      {"label": "C", "text": "The community's preferred announcement date.", "feedback": "An announcement date is premature before the project is qualified and disclosure is authorized."},
+      {"label": "D", "text": "A promise that every requested incentive will be approved.", "feedback": "Incentives require authority, criteria, due diligence, and approvals; they should never be promised during initial qualification."}
+    ],
+    "answer": "A",
+    "explanation": "Lead qualification establishes the decision need, project requirements, timing, authority, fit, and information rules before major resources are committed."
+  },
+  {
+    "id": 12,
+    "type": "multiple-choice",
+    "topic": "Marketing and sales",
+    "question": "Which statement is the strongest investment value proposition?",
+    "options": [
+      {"label": "A", "text": "Our community is a great place to do business.", "feedback": "This claim is broad and gives the investor no evidence tied to a decision criterion."},
+      {"label": "B", "text": "Our serviced employment area offers verified utility capacity, highway access, and a workforce program aligned with food-processing occupations.", "feedback": "Correct. It connects specific, supportable advantages to a defined investor need."},
+      {"label": "C", "text": "We will beat every competing community on cost.", "feedback": "An absolute promise is difficult to substantiate and ignores non-cost decision criteria."},
+      {"label": "D", "text": "Our brochure contains information about all local sectors.", "feedback": "A general brochure is a communication tool, not a targeted value proposition."}
+    ],
+    "answer": "B",
+    "explanation": "A useful value proposition is specific to the target audience, evidence based, differentiated, and connected to the prospect's decision criteria."
+  },
+  {
+    "id": 13,
+    "type": "multiple-choice",
+    "topic": "Finance",
+    "question": "Which financial statement reports a business's assets, liabilities, and equity at a specific date?",
+    "options": [
+      {"label": "A", "text": "Income statement", "feedback": "The income statement reports revenue and expenses over a period."},
+      {"label": "B", "text": "Balance sheet", "feedback": "Correct. The balance sheet is a point-in-time statement of assets, liabilities, and equity."},
+      {"label": "C", "text": "Cash-flow statement", "feedback": "The cash-flow statement explains cash inflows and outflows over a period."},
+      {"label": "D", "text": "Marketing plan", "feedback": "A marketing plan is an operating document, not a financial statement."}
+    ],
+    "answer": "B",
+    "explanation": "The balance-sheet equation is assets = liabilities + equity, measured at a stated point in time."
+  },
+  {
+    "id": 14,
+    "type": "multiple-choice",
+    "topic": "Finance",
+    "question": "A business has current assets of $240,000 and current liabilities of $160,000. What is its current ratio?",
+    "options": [
+      {"label": "A", "text": "0.67", "feedback": "This reverses the formula by dividing current liabilities by current assets."},
+      {"label": "B", "text": "1.00", "feedback": "A ratio of 1.00 would require current assets and current liabilities to be equal."},
+      {"label": "C", "text": "1.50", "feedback": "Correct. $240,000 divided by $160,000 equals 1.50."},
+      {"label": "D", "text": "80,000", "feedback": "This is working capital in dollars, not the current ratio."}
+    ],
+    "answer": "C",
+    "explanation": "Current ratio = current assets / current liabilities = $240,000 / $160,000 = 1.50. Interpretation still depends on industry, trends, and asset quality."
+  },
+  {
+    "id": 15,
+    "type": "multiple-choice",
+    "topic": "Economic analysis",
+    "question": "A local industry has a location quotient of 1.40. Which interpretation is most defensible?",
+    "options": [
+      {"label": "A", "text": "The industry's local employment share is 40% larger than the benchmark share.", "feedback": "Correct. An LQ above 1 indicates relative concentration compared with the selected benchmark."},
+      {"label": "B", "text": "The industry grew by 40% during the period.", "feedback": "Location quotient measures relative concentration, not growth over time."},
+      {"label": "C", "text": "The industry is guaranteed to export 40% of its output.", "feedback": "A high LQ can suggest an export orientation, but it does not prove an export percentage."},
+      {"label": "D", "text": "The industry is 40% more productive than the national industry.", "feedback": "Employment concentration does not directly measure productivity."}
+    ],
+    "answer": "A",
+    "explanation": "An LQ of 1.40 means the industry's share of local employment is 1.4 times its share in the benchmark economy. It does not by itself establish growth, productivity, or causation."
+  },
+  {
+    "id": 16,
+    "type": "multiple-choice",
+    "topic": "Economic impact",
+    "question": "Which proposed benefit should be excluded from an estimate of net new local economic impact?",
+    "options": [
+      {"label": "A", "text": "Spending that would have occurred locally even without the project.", "feedback": "Correct. This is deadweight, not an additional impact caused by the project."},
+      {"label": "B", "text": "Verified purchases from local suppliers that occur because of the project.", "feedback": "Subject to model boundaries and displacement checks, genuinely additional local purchases may contribute to indirect impact."},
+      {"label": "C", "text": "New wages paid to local workers because of the project.", "feedback": "Subject to appropriate assumptions, genuinely additional local labour income is relevant to impact analysis."},
+      {"label": "D", "text": "Incremental municipal revenue attributable to the project.", "feedback": "Incremental revenue can be relevant, although it should be compared with incremental service and capital costs."}
+    ],
+    "answer": "A",
+    "explanation": "Net impact should exclude deadweight and also test leakage, displacement, substitution, timing, and the geographic boundary of the analysis."
+  },
+  {
+    "id": 17,
+    "type": "multiple-choice",
+    "topic": "Economic analysis",
+    "question": "In shift-share analysis, a positive local competitive effect most directly indicates that:",
+    "options": [
+      {"label": "A", "text": "the local industry outperformed the growth expected from national and industry-mix effects", "feedback": "Correct. The local effect is the residual performance beyond the benchmark growth and industry composition effects."},
+      {"label": "B", "text": "all local job growth was caused by the economic development program", "feedback": "Shift-share is descriptive and does not establish program causation."},
+      {"label": "C", "text": "the industry has the largest employment base in the community", "feedback": "Competitive effect concerns relative growth performance, not absolute employment size."},
+      {"label": "D", "text": "the industry will continue growing at the same rate", "feedback": "Historical decomposition does not guarantee future performance."}
+    ],
+    "answer": "A",
+    "explanation": "A positive local competitive effect suggests stronger local performance than national growth and industry mix would predict, but further investigation is needed to explain why."
+  },
+  {
+    "id": 18,
+    "type": "multiple-choice",
+    "topic": "Inclusive development",
+    "question": "A major project may affect the rights and interests of an Indigenous community. Which is the most appropriate economic development approach?",
+    "options": [
+      {"label": "A", "text": "Treat the community only as another stakeholder in a general open house.", "feedback": "Indigenous rights and government-to-government relationships may require distinct processes beyond general stakeholder engagement."},
+      {"label": "B", "text": "Engage early and respectfully, understand rights and protocols, involve the proper authorities, and avoid treating consultation as a promotional exercise.", "feedback": "Correct. This recognizes distinct rights, relationships, protocols, and legal responsibilities."},
+      {"label": "C", "text": "Wait until every project decision has been finalized before making contact.", "feedback": "Late contact prevents meaningful participation and can increase legal, relationship, and project risk."},
+      {"label": "D", "text": "Assume a benefits agreement eliminates all Crown consultation obligations.", "feedback": "Commercial agreements and the Crown's legal duties are distinct and require appropriate legal and governmental guidance."}
+    ],
+    "answer": "B",
+    "explanation": "Economic developers should support early, respectful, rights-aware relationships and ensure that the proper legal and governmental authorities lead duties that fall outside the EDO's mandate."
+  },
+  {
+    "id": 19,
+    "type": "true-false",
+    "topic": "Performance measurement",
+    "question": "True or false: Program outputs and program outcomes are interchangeable terms.",
+    "options": [
+      {"label": "T", "text": "True", "feedback": "Outputs and outcomes answer different questions: what was delivered versus what changed."},
+      {"label": "F", "text": "False", "feedback": "Correct. Outputs are direct products of activities; outcomes are resulting changes in behaviour, condition, capacity, or performance."}
+    ],
+    "answer": "F",
+    "explanation": "Keeping outputs and outcomes separate prevents activity counts from being mistaken for evidence of impact."
+  },
+  {
+    "id": 20,
+    "type": "true-false",
+    "topic": "Finance",
+    "question": "True or false: A positive net present value is sufficient by itself to approve a public economic development project.",
+    "options": [
+      {"label": "T", "text": "True", "feedback": "Financial value alone does not resolve strategic fit, distributional effects, risk, legal authority, opportunity cost, or public-interest considerations."},
+      {"label": "F", "text": "False", "feedback": "Correct. NPV is one decision input and should be considered with strategic, social, environmental, fiscal, legal, and risk factors."}
+    ],
+    "answer": "F",
+    "explanation": "Public decisions require a broader business case than a single financial metric, even when the calculation is sound."
+  },
+  {
+    "id": 21,
+    "type": "true-false",
+    "topic": "Labour market",
+    "question": "True or false: The unemployment rate counts every working-age person who does not have a job as unemployed.",
+    "options": [
+      {"label": "T", "text": "True", "feedback": "People outside the labour force are not counted as unemployed under the standard measure."},
+      {"label": "F", "text": "False", "feedback": "Correct. The unemployment rate uses the labour force as its denominator and applies defined criteria for being unemployed."}
+    ],
+    "answer": "F",
+    "explanation": "The labour force includes employed people and people classified as unemployed; it excludes people not participating in the labour force."
+  },
+  {
+    "id": 22,
+    "type": "true-false",
+    "topic": "Business retention and expansion",
+    "question": "True or false: Aggregated BR&E intelligence can inform workforce, infrastructure, and policy priorities as well as individual business follow-up.",
+    "options": [
+      {"label": "T", "text": "True", "feedback": "Correct. Recurring issues across firms can reveal system-level priorities while individual files remain appropriately protected."},
+      {"label": "F", "text": "False", "feedback": "BR&E is both a firm-support process and a source of aggregate intelligence for broader strategy."}
+    ],
+    "answer": "T",
+    "explanation": "A mature BR&E program separates confidential case management from responsibly aggregated evidence that can guide community-wide action."
+  },
+  {
+    "id": 23,
+    "type": "true-false",
+    "topic": "Marketing and sales",
+    "question": "True or false: Economic development marketing and investment sales are interchangeable because both promote the community.",
+    "options": [
+      {"label": "T", "text": "True", "feedback": "Marketing builds awareness and interest at scale; sales manages specific prospects and decisions. Their relationship does not make them identical."},
+      {"label": "F", "text": "False", "feedback": "Correct. Marketing develops audiences and demand, while sales qualifies and advances individual opportunities through a decision process."}
+    ],
+    "answer": "F",
+    "explanation": "The functions reinforce one another but use different objectives, activities, measures, and stages of the prospect journey."
+  },
+  {
+    "id": 24,
+    "type": "true-false",
+    "topic": "Strategic planning",
+    "question": "True or false: An implementable economic development strategy should assign responsibilities, timelines, resources, and performance measures.",
+    "options": [
+      {"label": "T", "text": "True", "feedback": "Correct. These elements turn priorities into accountable action and support monitoring and adaptation."},
+      {"label": "F", "text": "False", "feedback": "Without ownership, timing, resources, and measures, strategic priorities are difficult to deliver or evaluate."}
+    ],
+    "answer": "T",
+    "explanation": "Implementation detail connects strategic intent to delivery, accountability, learning, and course correction."
+  }
+]

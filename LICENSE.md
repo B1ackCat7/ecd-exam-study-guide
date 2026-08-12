@@ -1,6 +1,6 @@
 # <img src="assets/icons/badge-check.svg" alt="" width="30" height="30"> Creative Commons Attribution 4.0 International
 
-> **Guide navigation:** [← Previous: Public sources and disclaimer](15-public-sources-and-disclaimer.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)
+> **Guide navigation:** [← Previous: Public sources and disclaimer](14-public-sources-and-disclaimer.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)
 
 ## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
@@ -54,4 +54,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ---
 
-> **Guide navigation:** [← Previous: Public sources and disclaimer](15-public-sources-and-disclaimer.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)
+> **Guide navigation:** [← Previous: Public sources and disclaimer](14-public-sources-and-disclaimer.md) · [Cover and contents](README.md) · [Next: Exam overview →](00-exam-overview.md)

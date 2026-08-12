@@ -1,6 +1,6 @@
 # <img src="assets/icons/library.svg" alt="" width="30" height="30"> Public Sources and Disclaimer
 
-> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: Licence and attribution →](LICENSE.md)
+> **Guide navigation:** [← Previous: Glossary](13-glossary.md) · [Cover and contents](README.md) · [Next: Licence and attribution →](LICENSE.md)
 
 ## <img src="assets/icons/list-tree.svg" alt="" width="22" height="22"> Table of contents
 
@@ -18,7 +18,7 @@
 
 ## <img src="assets/icons/calendar-check.svg" alt="" width="22" height="22"> Verification date
 
-The public requirements and links in this guide were checked on July 25, 2026. Certification rules can change, so candidates should verify them again before registering or writing.
+The public requirements and links in this guide were checked on August 12, 2026. Certification rules can change, so candidates should verify them again before registering or writing.
 
 ## Official EDAC sources
 
@@ -62,7 +62,7 @@ The contemporary-issues chapter uses these sources to identify themes, not to pr
 ## Interpretation notes
 
 - Every substantive chapter contains a topic-specific **Learn more** section.
-- The [glossary](14-glossary.md) pairs every definition with one or more authoritative public references.
+- The [glossary](13-glossary.md) pairs every definition with one or more authoritative public references.
 - The currently published essay limit is a maximum of 3,000 words.
 - The public exam page labels eight short-answer sections A through H but does not publicly state the subject assigned to each section.
 - EDAC's current designation page identifies business retention and expansion, investment attraction, and strategic planning as three pillars. The exam page does not publicly map the eight short-answer sections to named topics, so this guide studies a broader professional knowledge base.
@@ -73,7 +73,7 @@ The contemporary-issues chapter uses these sources to identify themes, not to pr
 
 ## Mock-exam design
 
-The written, calculation, and oral mock questions draw on the concepts, frameworks, terminology, and public references used throughout this study guide. Constructed scenarios and figures provide practice organized around the publicly described examination structure.
+The multiple-choice, true/false, written, and calculation practice questions draw on the concepts, frameworks, terminology, and public references used throughout this study guide. Constructed scenarios and figures provide practice organized around the publicly described examination structure.
 
 ## <img src="assets/icons/sparkles.svg" alt="" width="22" height="22"> AI assistance disclosure
 
@@ -101,8 +101,8 @@ This is an independently created educational resource and is not endorsed by EDA
 
 - Start with [EDAC's Ec.D. Designation page](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation page](https://exam.edac.ca/exam-prep/) for current official examination information.
 - Use the [chapter-level reference sections](README.md#learn-more-and-references) to research a topic in context.
-- Use the [term-by-term glossary](14-glossary.md) when checking a definition or competing convention.
+- Use the [term-by-term glossary](13-glossary.md) when checking a definition or competing convention.
 
 ---
 
-> **Guide navigation:** [← Previous: Glossary](14-glossary.md) · [Cover and contents](README.md) · [Next: Licence and attribution →](LICENSE.md)
+> **Guide navigation:** [← Previous: Glossary](13-glossary.md) · [Cover and contents](README.md) · [Next: Licence and attribution →](LICENSE.md)
