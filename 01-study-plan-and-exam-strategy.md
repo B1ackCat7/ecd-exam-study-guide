@@ -16,7 +16,6 @@
   - [Multiple choice: 40 minutes](#multiple-choice-40-minutes)
   - [Contemporary essay: 70 minutes](#contemporary-essay-70-minutes)
   - [Eight short answers: 160 minutes](#eight-short-answers-160-minutes)
-  - [Oral portion: about 30 minutes](#oral-portion-about-30-minutes)
 - [Decoding question verbs](#decoding-question-verbs)
 - [Short-answer quality checklist](#short-answer-quality-checklist)
 - [Learn more](#learn-more)
@@ -56,7 +55,7 @@ Remove client names and confidential details from any study notes that could be 
 - Practise a logic model and SMART measures.
 - Review mentoring, partnerships, networking, and training.
 - Draft a communications plan and a crisis-media response.
-- Rehearse two oral answers aloud and record their duration.
+- Complete two short-answer drills and compare them with the quality checklist.
 
 ### Week 3: Planning, marketing, and sales
 
@@ -71,7 +70,7 @@ Remove client names and confidential details from any study notes that could be 
 - Review the three financial statements and the main ratio families.
 - Practise budgeting, business planning, and development impact analysis.
 - Complete formula drills without notes.
-- Complete one five-hour simulation using the purpose-built mock exam questions.
+- Complete one timed written simulation using the purpose-built mock exam questions and current EDAC instructions.
 - Review weak areas, then repeat a shorter mixed simulation.
 - Refresh current events during the final week.
 
@@ -90,7 +89,7 @@ Remove client names and confidential details from any study notes that could be 
 | 9 | Marketing, community profiles, site selection |
 | 10 | Finance and statements |
 | 11 | Ratios, budgeting, impact analysis |
-| 12 | Contemporary essay and oral practice |
+| 12 | Contemporary essay and mixed question practice |
 | 13 | Full simulation |
 | 14 | Error review, light recall, technical check |
 
@@ -143,15 +142,6 @@ Budget 20 minutes per answer:
 
 Do not borrow time from later answers unless you have a clear recovery plan. Eight complete answers usually outperform several polished answers and one unfinished response.
 
-### Oral portion: about 30 minutes
-
-- Listen to the entire question.
-- Pause briefly and state a structure.
-- Answer directly before adding context.
-- Use local facts, but distinguish known facts from estimates.
-- If you do not know a number, explain how you would obtain and validate it.
-- End with the recommendation, result, or lesson.
-
 ## Decoding question verbs
 
 | Verb | What the marker needs |
@@ -187,7 +177,7 @@ Before submitting, ask:
 - [EDAC — Exam Preparation](https://exam.edac.ca/exam-prep/): use the current published structure to shape timed practice.
 - [EDAC — Exam Policies](https://exam.edac.ca/policies/): confirm current candidate, technical, result, and re-write requirements.
 - [Treasury Board of Canada Secretariat — Evaluation 101](https://www.canada.ca/en/treasury-board-secretariat/services/audit-evaluation/evaluation-government-canada/evaluation-101-backgrounder.html): a useful primer for organizing answers around inputs, activities, outputs, and outcomes.
-- [Glossary with definition sources](14-glossary.md): review unfamiliar terminology and follow the external references before practising.
+- [Glossary with definition sources](13-glossary.md): review unfamiliar terminology and follow the external references before practising.
 
 ---
 

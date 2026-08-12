@@ -1,6 +1,6 @@
 # <img src="assets/icons/clipboard-check.svg" alt="" width="30" height="30"> Mock Exam for Practice
 
-> **Guide navigation:** [← Previous: Calculations and formulas](10-calculations-and-formulas.md) · [Cover and contents](README.md) · [Next: Oral exam preparation →](12-oral-exam-preparation.md)
+> **Guide navigation:** [← Previous: Calculations and formulas](10-calculations-and-formulas.md) · [Cover and contents](README.md) · [Next: Contemporary issues →](12-contemporary-issues.md)
 
 This chapter contains a complete written practice exam. Its questions draw on the topics, frameworks, terminology, and public references used throughout the guide, organized around the publicly described examination format.
 
@@ -8,7 +8,7 @@ This chapter contains a complete written practice exam. Its questions draw on th
 
 - [How to use this file](#how-to-use-this-file)
 - [Mock written exam](#mock-written-exam)
-  - [Multiple-choice review](#multiple-choice-review)
+  - [Practice multiple-choice and true/false questions](#practice-multiple-choice-and-truefalse-questions)
   - [Short-answer practice sets](#short-answer-practice-sets)
     - [Mock set A: Professional judgment and evidence](#mock-set-a-professional-judgment-and-evidence)
     - [Mock set B: Business intelligence and response](#mock-set-b-business-intelligence-and-response)
@@ -29,11 +29,10 @@ Complete the whole chapter as a written simulation, or choose one part for a sho
 
 For a full practice session:
 
-- complete a multiple-choice review using the glossary;
+- complete the 24 practice multiple-choice and true/false questions;
 - choose one contemporary essay question;
 - answer one question from each of Mock Sets A through H;
-- complete the calculation practice if quantitative review is part of your study plan; and
-- finish with a simulation from the [oral exam preparation chapter](12-oral-exam-preparation.md).
+- complete the calculation practice if quantitative review is part of your study plan.
 
 Change the place, industry, constraint, and stakeholder mix when repeating a question. This keeps the exercise focused on transferable judgment instead of memorized wording.
 
@@ -41,9 +40,246 @@ Change the place, industry, constraint, and stakeholder mix when repeating a que
 
 The following practice questions use constructed scenarios and figures developed from the study-guide chapters. The A-through-H labels simply organize the mock exam by knowledge area.
 
-### Multiple-choice review
+### Practice multiple-choice and true/false questions
 
-Create 24 multiple-choice or true/false questions from randomly selected glossary terms. Include a mix of definitions, distinctions, short applications, and common errors. Explain why each answer is correct before checking the glossary and its public references.
+The 24 original questions below mix definitions, distinctions, short applications, professional judgment, and calculations. Allow about 40 minutes, answer every question, and record your choices before opening the answer key. The website edition provides immediate feedback for every selection.
+
+<!-- practice-questions:start -->
+#### Questions
+
+1. **Professional practice · Multiple choice.** A councillor asks an economic development officer to announce an unverified major investment before the company has approved disclosure. What is the best response?
+   - **A.** Announce it immediately because elected officials set municipal priorities.
+   - **B.** Confirm the facts, confidentiality obligations, and approval to disclose before preparing any announcement.
+   - **C.** Give the information to one reporter on background so the story can be tested.
+   - **D.** Refuse to communicate about the project at any time.
+
+2. **Business retention and expansion · Multiple choice.** Which activity is most central to a business retention and expansion program?
+   - **A.** Purchasing untargeted advertising in national media.
+   - **B.** Conducting structured outreach to existing employers and coordinating responses to identified barriers.
+   - **C.** Approving every expansion incentive requested by a local business.
+   - **D.** Replacing the municipality's planning approval process.
+
+3. **Performance measurement · Multiple choice.** A program reports that staff completed 80 business visits. In a logic model, this figure is best classified as:
+   - **A.** an input
+   - **B.** an activity
+   - **C.** an output
+   - **D.** a long-term outcome
+
+4. **Performance measurement · Multiple choice.** Which measure provides the strongest evidence that a workforce initiative improved participant employment outcomes?
+   - **A.** The number of social-media impressions generated.
+   - **B.** The number of workshops delivered.
+   - **C.** The share of participants employed after the program compared with a defined baseline and appropriate comparator.
+   - **D.** A testimonial selected by the program manager.
+
+5. **Governance · Multiple choice.** An arm's-length economic development corporation is most likely to maintain public accountability when it has:
+   - **A.** no written mandate so it can respond flexibly
+   - **B.** a clear mandate, delegated authorities, reporting requirements, and conflict-of-interest controls
+   - **C.** complete exemption from municipal policies and public reporting
+   - **D.** responsibility for approving its own municipal budget without oversight
+
+6. **Partnerships · Multiple choice.** Before launching a regional investment-attraction partnership, the participating organizations should first clarify:
+   - **A.** objectives, roles, decision rights, resources, data handling, and success measures
+   - **B.** which partner will receive public credit for every lead
+   - **C.** that all municipal differences will be removed
+   - **D.** that confidential prospect information will be circulated to every employee
+
+7. **Communications · Multiple choice.** During a plant-closure response, which communication approach is most appropriate?
+   - **A.** Speculate about the cause so the municipality appears informed.
+   - **B.** Use a designated spokesperson, separate confirmed facts from unknowns, show empathy, and state the next update time.
+   - **C.** Avoid all communication until every long-term impact is known.
+   - **D.** Publish personal details about affected workers to demonstrate impact.
+
+8. **Public engagement · Multiple choice.** An open house attracts mostly established property owners. What is the best next step before treating the feedback as representative?
+   - **A.** Close engagement because an open invitation was provided.
+   - **B.** Weight every comment equally and claim it represents the whole community.
+   - **C.** Identify missing groups and barriers, then add accessible and targeted ways for them to participate.
+   - **D.** Discard the open-house feedback entirely.
+
+9. **Strategic planning · Multiple choice.** Which sequence best reflects a defensible strategic-planning process?
+   - **A.** Select projects, write a vision, collect data, then identify stakeholders.
+   - **B.** Establish mandate, assess evidence and context, engage stakeholders, set priorities, build an action plan, implement, and evaluate.
+   - **C.** Copy a neighbouring strategy, announce targets, and assign measures after implementation.
+   - **D.** Start implementation, then seek approval if early results are positive.
+
+10. **Planning and land use · Multiple choice.** A manufacturer asks the economic development officer to guarantee rezoning of a site. The officer should:
+   - **A.** provide the guarantee to keep the project moving
+   - **B.** explain the approval process and risks, coordinate early review, and avoid promising the outcome
+   - **C.** tell the company that planning considerations are irrelevant to investment attraction
+   - **D.** submit the application without the company's authorization
+
+11. **Investment attraction · Multiple choice.** Which information is most useful when first qualifying an investment lead?
+   - **A.** The prospect's operating requirements, decision criteria, timeline, authority, and confidentiality needs.
+   - **B.** Only the number of jobs mentioned in the initial inquiry.
+   - **C.** The community's preferred announcement date.
+   - **D.** A promise that every requested incentive will be approved.
+
+12. **Marketing and sales · Multiple choice.** Which statement is the strongest investment value proposition?
+   - **A.** Our community is a great place to do business.
+   - **B.** Our serviced employment area offers verified utility capacity, highway access, and a workforce program aligned with food-processing occupations.
+   - **C.** We will beat every competing community on cost.
+   - **D.** Our brochure contains information about all local sectors.
+
+13. **Finance · Multiple choice.** Which financial statement reports a business's assets, liabilities, and equity at a specific date?
+   - **A.** Income statement
+   - **B.** Balance sheet
+   - **C.** Cash-flow statement
+   - **D.** Marketing plan
+
+14. **Finance · Multiple choice.** A business has current assets of $240,000 and current liabilities of $160,000. What is its current ratio?
+   - **A.** 0.67
+   - **B.** 1.00
+   - **C.** 1.50
+   - **D.** 80,000
+
+15. **Economic analysis · Multiple choice.** A local industry has a location quotient of 1.40. Which interpretation is most defensible?
+   - **A.** The industry's local employment share is 40% larger than the benchmark share.
+   - **B.** The industry grew by 40% during the period.
+   - **C.** The industry is guaranteed to export 40% of its output.
+   - **D.** The industry is 40% more productive than the national industry.
+
+16. **Economic impact · Multiple choice.** Which proposed benefit should be excluded from an estimate of net new local economic impact?
+   - **A.** Spending that would have occurred locally even without the project.
+   - **B.** Verified purchases from local suppliers that occur because of the project.
+   - **C.** New wages paid to local workers because of the project.
+   - **D.** Incremental municipal revenue attributable to the project.
+
+17. **Economic analysis · Multiple choice.** In shift-share analysis, a positive local competitive effect most directly indicates that:
+   - **A.** the local industry outperformed the growth expected from national and industry-mix effects
+   - **B.** all local job growth was caused by the economic development program
+   - **C.** the industry has the largest employment base in the community
+   - **D.** the industry will continue growing at the same rate
+
+18. **Inclusive development · Multiple choice.** A major project may affect the rights and interests of an Indigenous community. Which is the most appropriate economic development approach?
+   - **A.** Treat the community only as another stakeholder in a general open house.
+   - **B.** Engage early and respectfully, understand rights and protocols, involve the proper authorities, and avoid treating consultation as a promotional exercise.
+   - **C.** Wait until every project decision has been finalized before making contact.
+   - **D.** Assume a benefits agreement eliminates all Crown consultation obligations.
+
+19. **Performance measurement · True or false.** True or false: Program outputs and program outcomes are interchangeable terms.
+   - **T.** True
+   - **F.** False
+
+20. **Finance · True or false.** True or false: A positive net present value is sufficient by itself to approve a public economic development project.
+   - **T.** True
+   - **F.** False
+
+21. **Labour market · True or false.** True or false: The unemployment rate counts every working-age person who does not have a job as unemployed.
+   - **T.** True
+   - **F.** False
+
+22. **Business retention and expansion · True or false.** True or false: Aggregated BR&E intelligence can inform workforce, infrastructure, and policy priorities as well as individual business follow-up.
+   - **T.** True
+   - **F.** False
+
+23. **Marketing and sales · True or false.** True or false: Economic development marketing and investment sales are interchangeable because both promote the community.
+   - **T.** True
+   - **F.** False
+
+24. **Strategic planning · True or false.** True or false: An implementable economic development strategy should assign responsibilities, timelines, resources, and performance measures.
+   - **T.** True
+   - **F.** False
+
+<details>
+<summary><strong>Answer key and explanations</strong></summary>
+
+**1. B — Confirm the facts, confidentiality obligations, and approval to disclose before preparing any announcement.**
+
+Economic developers should protect confidential information, verify facts, and coordinate authorized communication before a public announcement.
+
+**2. B — Conducting structured outreach to existing employers and coordinating responses to identified barriers.**
+
+A sound BR&E program builds relationships with existing firms, identifies opportunities and risks, and coordinates appropriate responses without promising outcomes outside the EDO's authority.
+
+**3. C — an output**
+
+Outputs count what a program directly delivers. Outcomes describe changes that follow, and should not be assumed from activity counts alone.
+
+**4. C — The share of participants employed after the program compared with a defined baseline and appropriate comparator.**
+
+Outcome evidence is stronger when it specifies the population, timing, baseline, and a reasonable comparison rather than relying only on outputs or anecdotes.
+
+**5. B — a clear mandate, delegated authorities, reporting requirements, and conflict-of-interest controls**
+
+An arm's-length structure still needs a documented mandate, appropriate delegated authority, transparent reporting, and controls for ethical and financial stewardship.
+
+**6. A — objectives, roles, decision rights, resources, data handling, and success measures**
+
+Effective partnerships begin with shared objectives and an operating framework that covers authority, resources, information, accountability, and evaluation.
+
+**7. B — Use a designated spokesperson, separate confirmed facts from unknowns, show empathy, and state the next update time.**
+
+Crisis communication should be accurate, empathetic, coordinated, and transparent about uncertainty and the timing of further information.
+
+**8. C — Identify missing groups and barriers, then add accessible and targeted ways for them to participate.**
+
+Representative engagement requires attention to who is missing, why they may be missing, and which additional methods can reduce participation barriers.
+
+**9. B — Establish mandate, assess evidence and context, engage stakeholders, set priorities, build an action plan, implement, and evaluate.**
+
+A credible strategy connects mandate, evidence, engagement, choices, resources, delivery, measurement, and adaptation.
+
+**10. B — explain the approval process and risks, coordinate early review, and avoid promising the outcome**
+
+Economic development staff can convene reviewers and clarify process, but they must distinguish facilitation from statutory decision-making.
+
+**11. A — The prospect's operating requirements, decision criteria, timeline, authority, and confidentiality needs.**
+
+Lead qualification establishes the decision need, project requirements, timing, authority, fit, and information rules before major resources are committed.
+
+**12. B — Our serviced employment area offers verified utility capacity, highway access, and a workforce program aligned with food-processing occupations.**
+
+A useful value proposition is specific to the target audience, evidence based, differentiated, and connected to the prospect's decision criteria.
+
+**13. B — Balance sheet**
+
+The balance-sheet equation is assets = liabilities + equity, measured at a stated point in time.
+
+**14. C — 1.50**
+
+Current ratio = current assets / current liabilities = $240,000 / $160,000 = 1.50. Interpretation still depends on industry, trends, and asset quality.
+
+**15. A — The industry's local employment share is 40% larger than the benchmark share.**
+
+An LQ of 1.40 means the industry's share of local employment is 1.4 times its share in the benchmark economy. It does not by itself establish growth, productivity, or causation.
+
+**16. A — Spending that would have occurred locally even without the project.**
+
+Net impact should exclude deadweight and also test leakage, displacement, substitution, timing, and the geographic boundary of the analysis.
+
+**17. A — the local industry outperformed the growth expected from national and industry-mix effects**
+
+A positive local competitive effect suggests stronger local performance than national growth and industry mix would predict, but further investigation is needed to explain why.
+
+**18. B — Engage early and respectfully, understand rights and protocols, involve the proper authorities, and avoid treating consultation as a promotional exercise.**
+
+Economic developers should support early, respectful, rights-aware relationships and ensure that the proper legal and governmental authorities lead duties that fall outside the EDO's mandate.
+
+**19. F — False**
+
+Keeping outputs and outcomes separate prevents activity counts from being mistaken for evidence of impact.
+
+**20. F — False**
+
+Public decisions require a broader business case than a single financial metric, even when the calculation is sound.
+
+**21. F — False**
+
+The labour force includes employed people and people classified as unemployed; it excludes people not participating in the labour force.
+
+**22. T — True**
+
+A mature BR&E program separates confidential case management from responsibly aggregated evidence that can guide community-wide action.
+
+**23. F — False**
+
+The functions reinforce one another but use different objectives, activities, measures, and stages of the prospect journey.
+
+**24. T — True**
+
+Implementation detail connects strategic intent to delivery, accountability, learning, and course correction.
+
+</details>
+<!-- practice-questions:end -->
 
 ### Short-answer practice sets
 
@@ -178,12 +414,12 @@ After scoring, rewrite only the weakest section so the review stays focused.
 
 - [EDAC — Exam Preparation](https://exam.edac.ca/exam-prep/): confirm the current public exam format before setting timers or scoring practice.
 - [EDAC — Code of Ethics](https://edac.ca/about/code-of-ethics/): use the current code when reviewing ethics and professional-judgment answers.
-- [Glossary with definition sources](14-glossary.md): check terminology and follow the public references after each practice session.
+- [Glossary with definition sources](13-glossary.md): check terminology and follow the public references after each practice session.
 - [Calculations and formulas](10-calculations-and-formulas.md#learn-more): review formula conventions before scoring quantitative drills.
-- [Public sources and disclaimer](15-public-sources-and-disclaimer.md): verify current exam and contemporary-issue sources.
+- [Public sources and disclaimer](14-public-sources-and-disclaimer.md): verify current exam and contemporary-issue sources.
 
 Use the mock exam to practise process, judgment, evidence, and communication. Change the scenarios between attempts and avoid memorizing model wording.
 
 ---
 
-> **Guide navigation:** [← Previous: Calculations and formulas](10-calculations-and-formulas.md) · [Cover and contents](README.md) · [Next: Oral exam preparation →](12-oral-exam-preparation.md)
+> **Guide navigation:** [← Previous: Calculations and formulas](10-calculations-and-formulas.md) · [Cover and contents](README.md) · [Next: Contemporary issues →](12-contemporary-issues.md)

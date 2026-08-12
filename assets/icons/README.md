@@ -29,10 +29,9 @@ This guide uses a curated subset of [Lucide](https://lucide.dev/) icons for chap
 | `09-finance-business-planning-and-impact-analysis.md` | Column chart |
 | `10-calculations-and-formulas.md` | Calculator |
 | `11-mock-exam-for-practice.md` | Clipboard check |
-| `12-oral-exam-preparation.md` | Microphone |
-| `13-contemporary-issues.md` | Globe |
-| `14-glossary.md` | Book with letter |
-| `15-public-sources-and-disclaimer.md` | Library |
+| `12-contemporary-issues.md` | Globe |
+| `13-glossary.md` | Book with letter |
+| `14-public-sources-and-disclaimer.md` | Library |
 | `LICENSE.md` | Badge check |
 
 ## Licence

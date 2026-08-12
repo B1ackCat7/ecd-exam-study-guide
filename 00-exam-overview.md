@@ -14,7 +14,7 @@
 
 ## Current public eligibility requirements
 
-As of July 25, 2026, EDAC's public [Ec.D. Designation page](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation page](https://exam.edac.ca/exam-prep/) present the following baseline route:
+As of August 12, 2026, EDAC's public [Ec.D. Designation page](https://edac.ca/professional-development/ecd-designation/) and [Exam Preparation page](https://exam.edac.ca/exam-prep/) present the following baseline route:
 
 1. Be an EDAC member in good standing.
 2. Have at least three years of economic development experience.
@@ -32,12 +32,11 @@ Use the certification and exam-preparation pages as starting points, not as an i
 | 1 | Multiple choice; answer every question | 40 minutes | 12 |
 | 2(a) | Contemporary essay; maximum 3,000 words | 70 minutes | 15 |
 | 2(b) | Eight short-answer sections, A through H; choose one of three questions in each section | 160 minutes | 64 |
-| 3 | Oral questions with a proctor | About 30 minutes | 9 |
-| **Total** |  | **300 minutes** | **100** |
+| **Published written subtotal** |  | **270 minutes** | **91** |
 
 The multiple-choice section awards 0.5 mark per question, which implies 24 questions. The short-answer section gives 8 marks to each of eight answers. Point form is permitted for the short answers, but the response must still answer every part of the prompt.
 
-For the online written portion, EDAC currently lists a webcam-enabled computer, a modern browser, stable internet for the full five hours, screen sharing, and Zoom. Confirm the technical setup before the exam because EDAC's public pages are not fully synchronized.
+For the online examination, EDAC currently lists a webcam-enabled computer, a modern browser, stable internet, screen sharing, and Zoom. The three published written sections above total 270 minutes and 91 raw marks; the public pages do not clearly explain the current normalization or full-session timing. Confirm the scoring, schedule, breaks, and technical setup directly with EDAC because its public pages are not fully synchronized.
 
 ## Published competency areas
 
@@ -116,7 +115,7 @@ At least two weeks before the exam, confirm:
 - identification requirements;
 - browser, webcam, screen-sharing, and meeting software requirements;
 - what happens after a technical interruption; and
-- when and how the oral portion will occur.
+- how the published written marks are normalized and how the full session is scheduled.
 
 ## <img src="assets/icons/external-link.svg" alt="" width="22" height="22"> Learn more
 

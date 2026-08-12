@@ -1,6 +1,6 @@
 # <img src="assets/icons/globe-2.svg" alt="" width="30" height="30"> Contemporary Issues
 
-> **Guide navigation:** [← Previous: Oral exam preparation](12-oral-exam-preparation.md) · [Cover and contents](README.md) · [Next: Glossary →](14-glossary.md)
+> **Guide navigation:** [← Previous: Mock exam for practice](11-mock-exam-for-practice.md) · [Cover and contents](README.md) · [Next: Glossary →](13-glossary.md)
 
 The contemporary essay should show how a major event could affect the local economy and how an EDO could respond. The analytical questions apply the public issues and study frameworks covered in this guide.
 
@@ -187,4 +187,4 @@ Contemporary evidence ages quickly. Recheck publication dates, definitions, revi
 
 ---
 
-> **Guide navigation:** [← Previous: Oral exam preparation](12-oral-exam-preparation.md) · [Cover and contents](README.md) · [Next: Glossary →](14-glossary.md)
+> **Guide navigation:** [← Previous: Mock exam for practice](11-mock-exam-for-practice.md) · [Cover and contents](README.md) · [Next: Glossary →](13-glossary.md)

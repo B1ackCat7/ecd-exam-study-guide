@@ -172,7 +172,7 @@ Apply ethics throughout the exam, not only in a standalone ethics answer. Connec
 - [Innovation, Science and Economic Development Canada — SME Sustainability Roadmap](https://ised-isde.canada.ca/site/corporate-social-responsibility/en/sme-sustainability-roadmap): economic, environmental, and social dimensions of responsible business.
 - [Justice Canada — Consultation terminology](https://justice.canada.ca/eng/cons/def.html): legal context for Indigenous consultation and rights-holder terminology.
 
-For definitions of conflict of interest, equity, rights-holder, stakeholder, and triple bottom line, see the [glossary](14-glossary.md).
+For definitions of conflict of interest, equity, rights-holder, stakeholder, and triple bottom line, see the [glossary](13-glossary.md).
 
 ---
 

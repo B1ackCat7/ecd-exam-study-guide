@@ -1,6 +1,6 @@
 # <img src="assets/icons/book-a.svg" alt="" width="30" height="30"> Glossary
 
-> **Guide navigation:** [← Previous: Contemporary issues](13-contemporary-issues.md) · [Cover and contents](README.md) · [Next: Public sources and disclaimer →](15-public-sources-and-disclaimer.md)
+> **Guide navigation:** [← Previous: Contemporary issues](12-contemporary-issues.md) · [Cover and contents](README.md) · [Next: Public sources and disclaimer →](14-public-sources-and-disclaimer.md)
 
 Definitions are plain-language syntheses written for exam review. They are not quotations. Confirm jurisdiction-specific legal terms and follow the linked primary sources for technical detail. Each row pairs the study definition with one or more public sources for deeper learning and comparison.
 
@@ -207,4 +207,4 @@ Definitions are plain-language syntheses written for exam review. They are not q
 
 ---
 
-> **Guide navigation:** [← Previous: Contemporary issues](13-contemporary-issues.md) · [Cover and contents](README.md) · [Next: Public sources and disclaimer →](15-public-sources-and-disclaimer.md)
+> **Guide navigation:** [← Previous: Contemporary issues](12-contemporary-issues.md) · [Cover and contents](README.md) · [Next: Public sources and disclaimer →](14-public-sources-and-disclaimer.md)
